@@ -3,14 +3,22 @@
 # Desafio de Consultoria de Software
 
 ## Membros da Equipe
+A equipe responsável pelo desenvolvimento deste projeto é composta por:
 
-| Nome | GitHub |
-| :--- | :--- |
-| Ana Clara | [Ana Clara](https://github.com/anaclara) |
-| Luisa | [Luisa](https://github.com/luisa) |
-| Gabriel | [Gabriel](https://github.com/gabriel) |
-| Moises | [Moises](https://github.com/moises) |
-| João Igor | [João Igor](https://github.com/JoaoPC10) |
+<p align="center"><strong>Tabela 1:</strong> Integrantes do grupo</p>
+
+<table>
+    <tr>
+    <td align="center"><a href="https://github.com/AnnaClarafg"><img src="https://avatars.githubusercontent.com/u/169397157?v=4" width="200px;" alt=""/><br/><sub><b>Ana Clara</b></sub></a><br/>
+    <td align="center"><a href="https://github.com/Gabriel"><img src="" width="200px;" alt=""/><br /><sub><b>Gabriel</b></sub></a><br />
+    <td align="center"><a href="https://github.com/JoaoPC10"><img src="https://avatars.githubusercontent.com/u/104221138?v=4" width="200px;" alt=""/><br /><sub><b>João Igor</b></sub></a><br />
+    <td align="center"><a href="https://github.com/luisa12ll"><img src="https://avatars.githubusercontent.com/u/194189725?v=4 width="200px;" alt=""/><br /><sub><b>Luisa</b></sub></a><br />
+    </tr>
+    <tr>
+    <td align="center"><a href="https://github.com/edumoisessilva"><img src="https://avatars.githubusercontent.com/u/185516590?v=4" width="200px;" alt=""/><br /><sub><b>Moisés
+    </tr>
+</table>
+
 
 
 
