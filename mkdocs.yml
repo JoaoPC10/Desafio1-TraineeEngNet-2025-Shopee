@@ -1,8 +1,15 @@
 site_name: Shopee
 site_url: https://joaopc10.github.io/Desafio1-TraineeEngNet-2025-Shopee/
 
+nav:
+  - Início: index.md
+  - Sobre o Projeto: sobre.md
+  - Equipe: equipe.md
+  - Contato: contato.md
+
 theme:
   name: material
+  language: pt
   font:
     text: Roboto
   features:
@@ -18,25 +25,20 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-  language: pt
 
   palette:
     - scheme: default
-      toggle:
-        icon: material/toggle-switch
-        name: Dark mode
       primary: blue
       accent: light blue
-      background: "#f5f7fa"
-      text: "#22272e"
-    - scheme: slate
       toggle:
-        icon: material/toggle-switch-off-outline
-        name: Light mode
+        icon: material/weather-night
+        name: Modo escuro
+    - scheme: slate
       primary: blue grey
       accent: cyan
-      background: "#22272e"
-      text: "#f5f7fa"
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
 
 markdown_extensions:
   - attr_list
