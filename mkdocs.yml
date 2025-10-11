@@ -110,26 +110,22 @@ nav:
     - Apresentação VI: apresentacoes/apresentacao6.md
     - Apresentação VII: apresentacoes/apresentacao7.md
 theme:
-  logo: assets/LogoCadUn.png
   name: material
-  font:
-    text: IBM Plex Serif
-  features:
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - content.code.copy
   palette:
-    - scheme: light
-      primary: custom
+    - scheme: default
+      primary: blue
+      accent: light blue
+      name: Tema Claro
       toggle:
         icon: material/weather-night
-        name: Trocar para modo escuro
-
+        name: Ativar modo escuro
     - scheme: slate
-      primary: custom
+      primary: deep orange
+      accent: deep purple
+      name: Tema Escuro
       toggle:
         icon: material/weather-sunny
-        name: Trocar para modo claro
+        name: Ativar modo claro
 icon:
   repo: fontawesome/brands/git-alt
 
