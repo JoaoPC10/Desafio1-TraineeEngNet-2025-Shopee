@@ -1,84 +1,95 @@
-# Shopee - Grupo Verde Limão
+# SAE
 
-<p align="center"><strong>Figura 1:</strong> Logo do Aplicativo da Shopee</p>
+<h1 align="center">
+    <img src="./imagens/logoSAE.jpg" height="250"alt="Docusaurus">
+</h1>
 
-<div align="center">
-  <img src="assets/logoShopee.png" width="200" alt="Logo Shopee">
-</div>
+<font size="2"><p style="text-align: center"> **Imagem 1** : Logo do SAE</p></font>
 
-# Desafio de Consultoria de Software
+Fonte: [Sobre o SAE](https://sae.unb.br/ajudasae/conhecasae/conteudos/projeto.html)
 
-## Membros da Equipe
-A equipe responsável pelo desenvolvimento deste projeto é composta por:
+## Sobre o SAE 
 
-<p align="center"><strong>Tabela 1:</strong> Integrantes do grupo</p>
+O SAE (Sistema de Apoio Educacional) é uma plataforma que usa tecnologia e métodos de
+ensino para oferecer uma aprendizagem personalizada, baseada na Teoria da
+Aprendizagem Significativa (TAS) de Ausubel. Com a ajuda de um assistente virtual
+inteligente (ITA), o sistema entende o nível de conhecimento de cada aluno e oferece
+orientação adaptada às suas necessidades.
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/AnnaClarafg">
-        <img src="https://avatars.githubusercontent.com/u/169397157?v=4" width="200" alt="Foto de Ana Clara"/><br/>
-        <sub><b>Ana Clara</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Dev-Gabriel-Lima">
-        <img src="https://avatars.githubusercontent.com/u/156694363?v=4" width="200" alt="Foto de Gabriel"/><br/>
-        <sub><b>Gabriel</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/JoaoPC10">
-        <img src="https://avatars.githubusercontent.com/u/104221138?v=4" width="200" alt="Foto de João Igor"/><br/>
-        <sub><b>João Igor</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/luisa12ll">
-        <img src="https://avatars.githubusercontent.com/u/194189725?v=4" width="200" alt="Foto de Luisa"/><br/>
-        <sub><b>Luisa</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/edumoisessilva">
-        <img src="https://avatars.githubusercontent.com/u/185516590?v=4" width="200" alt="Foto de Moises"/><br/>
-        <sub><b>Moises</b></sub>
-      </a>
-    </td>
-  </tr>
+O SAE combina a atuação de professores e monitores com recursos artificiais, permitindo
+interação via chat, monitoria assistida e acompanhamento em tempo real, avaliando o
+desempenho e o empenho dos alunos. Com base nesses dados, o sistema recomenda
+materiais e atividades específicas para aprimorar o aprendizado de cada aluno, seja em
+aulas presenciais, a distância ou híbridas.
+
+A plataforma funciona em módulos que ajudam em diferentes partes do aprendizado:
+- **Banco de Questões (BDQ)**: atividades interativas alinhadas ao conteúdo.
+- **Projeto de Monitoria (PMon)**: suporte direto de monitores e professores, presencial
+ou online.
+- **Sistema Tutor Inteligente (STI) e Módulo de Interface Animado (MInA)**:
+orientação pedagógica personalizada e interação significativa.
+- **Acompanhamento Real (Real) e Apoio à Decisão (MAD)**: monitoramento contínuo
+e análises estratégicas em tempo real.
+- **Cooperação (Integra) e Conteúdo (SRC)**: integração com outros sistemas e
+direcionamento de materiais de acordo com o perfil do aluno.
+
+## Contribuidores
+
+<center>
+<table style="margin-left: auto; margin-right: auto;">
+    <tr>
+        <td align="center">
+            <a href="https://github.com/ArthurGuilher62">
+                <img style="border-radius: 50%; width: 100px; height: 100px" src="https://github.com/ArthurGuilher62.png" />
+                <h5 class="text-center">Arthur Guilherme</h5>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/arthurhvieira1">
+                <img style="border-radius: 50%; width: 100px; height: 100px" src="https://github.com/arthurhvieira1.png" />
+                <h5 class="text-center">Arthur Henrique</h5>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/felipegf1">
+                <img style="border-radius: 50%; width: 100px; height: 100px" src="https://github.com/felipegf1.png" />
+                <h5 class="text-center">Felipe Guimarães</h5>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/MrBolt2005">
+                <img style="border-radius: 50%; width: 100px; height: 100px" src="https://github.com/MrBolt2005.png" />
+                <h5 class="text-center">João Felipe</h5>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/JoaoSapiencia">
+                <img style="border-radius: 50%; width: 100px; height: 100px" src="https://github.com/JoaoSapiencia.png" />
+                <h5 class="text-center">João Sapiencia</h5>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/TiagoTeixeira-2005">
+                <img style="border-radius: 50%; width: 100px; height: 100px" src="https://github.com/TiagoTeixeira-2005.png" />
+                <h5 class="text-center">Tiago Lemes</h5>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/VilmarFagundes">
+                <img style="border-radius: 50%; width: 100px; height: 100px" src="https://github.com/VilmarFagundes.png" />
+                <h5 class="text-center">Vilmar José</h5>
+            </a>
+        </td>
+    </tr>
 </table>
+</center>
 
-<p align="center"><strong>Autor:</strong> João Igor</p>
+## Referências
 
----
+SAE, Sistema de Apoio Educacional. Disponível em: https://sae.unb.br/ajudasae/conhecasae/conteudos/projeto.html. Acesso em: 6 set. 2025.
 
-## O que é consultoria de software?
+## Histórico de versão
 
-É o processo de entender um **problema de negócio** e criar um plano para resolvê-lo usando a tecnologia. Neste desafio, vocês vão se colocar no papel de consultores para analisar e entender a lógica de um aplicativo já existente, como se fossem construir um do zero.
-
-## O Desafio
-
-Cada equipe vai escolher um **aplicativo famoso** e fazer uma **engenharia reversa**. Isso significa que vocês vão analisar o aplicativo de fora para dentro, entendendo por que ele foi construído daquela maneira e quais problemas ele resolve para os usuários.
-
-## Como fazer? Guia em 4 Passos
-
-### 1. Entender o Problema
-
-Identifiquem a **dor do cliente** que o aplicativo soluciona.  
-Por exemplo, o iFood resolve o problema de pedir comida de forma rápida e fácil.
-
-### 2. Requisitos
-
-Quais são as **funcionalidades obrigatórias** (ex: pagamento, busca) e as **extras**?  
-Organizem-nas de acordo com a importância para o usuário (por exemplo, usando a metodologia MoSCoW:  
-Must Have, Should Have, Could Have, Won't Have).
-
-### 3. Modelagem
-
-Traduzam a complexidade do aplicativo em **modelos visuais** (fluxogramas, diagramas UML, mapas de navegação)  
-para entender a estrutura e as conexões entre as partes (ex: diagrama de classes para o banco de dados, fluxograma de *login*).
-
-### 4. Entrega
-
-Compilem todo o trabalho em um **único documento**.  
-O documento deve explicar as técnicas usadas e **justificar as decisões** da equipe para a arquitetura e funcionalidades propostas.
+| Versão | Data | Descrição | Autor(es) | Revisor |
+| ---- | ----- | ----- | ---- | ----- | 
+| 1.0 | 06/09/2025 | Início da documentação | [Felipe Guimaraes](https://github.com/felipegf1) e [Tiago Lemes](https://github.com/TiagoTeixeira-2005) | [Vilmar José](https://github.com/VilmarFagundes) |

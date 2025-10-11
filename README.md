@@ -1,47 +1,74 @@
+# Requisitos de software - 2025.2 - Grupo 03
 
+Este projeto tem como objetivo aplicar os conceitos e práticas de Requisitos de Software, estudados ao longo da disciplina, na avaliação do site SAE.
 
-# Desafio de Consultoria de Software
+## :scroll: Sobre o projeto
 
-## Membros da Equipe
-A equipe responsável pelo desenvolvimento deste projeto é composta por:
+Este projeto tem como objetivo aplicar os conceitos e práticas de Requisitos de Software, estudados ao longo da disciplina, na avaliação do site SAE. Durante a realização do projeto, a partir de interações com usuários reais, serão elaborados aterfatos como:
 
-<p align="center"><strong>Tabela 1:</strong> Integrantes do grupo</p>
+- Personas  
+- Histórias de usuário  
+- Casos de uso  
+- Requisitos funcionais e não funcionais 
 
-<table>
+## :paperclip: Link da página de documentação
+aqui documentação do SAE
+
+## :star2: Integrantes
+
+<center>
+<table style="margin-left: auto; margin-right: auto;">
     <tr>
-    <td align="center"><a href="https://github.com/AnnaClarafg"><img src="https://avatars.githubusercontent.com/u/169397157?v=4" width="200px;" alt=""/><br/><sub><b>Ana Clara</b></sub></a><br/>
-    <td align="center"><a href="https://github.com/Dev-Gabriel-Lima"><img src="https://avatars.githubusercontent.com/u/156694363?v=4" width="200px;" alt=""/><br /><sub><b>Gabriel</b></sub></a><br />
-    <td align="center"><a href="https://github.com/JoaoPC10"><img src="https://avatars.githubusercontent.com/u/104221138?v=4" width="200px;" alt=""/><br /><sub><b>João Igor</b></sub></a><br />
-    <td align="center"><a href="https://github.com/luisa12ll"><img src="https://avatars.githubusercontent.com/u/194189725?v=4" width="200px;" alt=""/><br /><sub><b>Luisa</b></sub></a><br />
-    <td align="center"><a href="https://github.com/edumoisessilva"><img src="https://avatars.githubusercontent.com/u/185516590?v=4" width="200px;" alt=""/><br /><sub><b>Moisés
+        <td align="center">
+            <a href="https://github.com/ArthurGuilher62">
+                <img style="border-radius: 50%; width: 100px; height: 100px" src="https://github.com/ArthurGuilher62.png" />
+                <h5 class="text-center">Arthur Guilherme</h5>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/arthurhvieira1">
+                <img style="border-radius: 50%; width: 100px; height: 100px" src="https://github.com/arthurhvieira1.png" />
+                <h5 class="text-center">Arthur Henrique</h5>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/felipegf1">
+                <img style="border-radius: 50%; width: 100px; height: 100px" src="https://github.com/felipegf1.png" />
+                <h5 class="text-center">Felipe Guimarães</h5>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/MrBolt2005">
+                <img style="border-radius: 50%; width: 100px; height: 100px" src="https://github.com/MrBolt2005.png" />
+                <h5 class="text-center">João Felipe</h5>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/JoaoSapiencia">
+                <img style="border-radius: 50%; width: 100px; height: 100px" src="https://github.com/JoaoSapiencia.png" />
+                <h5 class="text-center">João Sapiencia</h5>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/TiagoTeixeira-2005">
+                <img style="border-radius: 50%; width: 100px; height: 100px" src="https://github.com/TiagoTeixeira-2005.png" />
+                <h5 class="text-center">Tiago Lemes</h5>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/VilmarFagundes">
+                <img style="border-radius: 50%; width: 100px; height: 100px" src="https://github.com/VilmarFagundes.png" />
+                <h5 class="text-center">Vilmar José</h5>
+            </a>
+        </td>
     </tr>
 </table>
+</center>
 
+<hr/>
 
+## :octocat: Histórico de versão 
 
-
-## O que é consultoria de software?
-
-É o processo de entender um **problema de negócio** e criar um plano para resolvê-lo usando a tecnologia. Neste desafio, vocês vão se colocar no papel de consultores para analisar e entender a lógica de um aplicativo já existente, como se fossem construir um do zero.
-
-## O Desafio
-
-Cada equipe vai escolher um **aplicativo famoso** e fazer uma **engenharia reversa**. Isso significa que vocês vão analisar o aplicativo de fora para dentro, entendendo por que ele foi construído daquela maneira e quais problemas ele resolve para os usuários.
-
-## Como fazer? Guia em 4 Passos
-
-### 1. Entender o Problema
-
-Identifiquem a **dor do cliente** que o aplicativo soluciona. Por exemplo, o iFood resolve o problema de pedir comida de forma rápida e fácil.
-
-### 2. Requisitos
-
-Quais são as **funcionalidades obrigatórias** (ex: pagamento, busca) e as **extras**? Organizem-nas de acordo com a importância para o usuário (por exemplo, usando a metodologia MoSCoW: Must Have, Should Have, Could Have, Won't Have).
-
-### 3. Modelagem
-
-Traduzam a complexidade do aplicativo em **modelos visuais** (fluxogramas, diagramas UML, mapas de navegação) para entender a estrutura e as conexões entre as partes (ex: diagrama de classes para o banco de dados, fluxograma de *login*).
-
-### 4. Entrega
-
-Compilem todo o trabalho em um **único documento**. O documento deve explicar as técnicas usadas e **justificar as decisões** da equipe para a arquitetura e funcionalidades propostas.
+| Versão | Data | Descrição | Autor(a) |
+|--------|------|----------|----------|
+| 1.0    | 06/09/2025 | Atualização do readme | [João Sapiência](https://github.com/JoaoSapiencia)|
