@@ -21,13 +21,13 @@ theme:
     - content.code.copy
   palette:
     - scheme: default
-      primary: blue
-      accent: light blue
+      primary: orange
+      accent: light orange
       toggle:
         icon: material/weather-night
         name: Modo escuro
     - scheme: slate
-      primary: blue grey
+      primary: red
       accent: cyan
       toggle:
         icon: material/weather-sunny
