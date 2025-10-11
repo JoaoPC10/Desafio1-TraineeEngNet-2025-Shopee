@@ -1,10 +1,10 @@
 # SHOPEE
 
 <h1 align="center">
-    <img src="./imagens/logoSAE.jpg" height="250"alt="Docusaurus">
+    <img src="./imagens/logoShopee.png" height="250"alt="Logo Shopee">
 </h1>
 
-<font size="2"><p style="text-align: center"> **Imagem 1** : Logo do SAE</p></font>
+<font size="2"><p style="text-align: center"> **Imagem 1** : Logo da Shopee</p></font>
 
 ---
 ## Resumo do Aplicativo
