@@ -5,25 +5,41 @@ on:
       - master 
       - main
 permissions:
-  contents: write
+  contents: write  # necessário para criar/atualizar a branch gh-pages
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - name: Configure Git Credentials
-        run: |
-          git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-      - uses: actions/setup-python@v5
+      # 1️⃣ Pega o código do repositório
+      - uses: actions/checkout@v3
+
+      # 2️⃣ Configura Python
+      - uses: actions/setup-python@v4
         with:
           python-version: 3.x
-      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
-      - uses: actions/cache@v4
+
+      # 3️⃣ Cache do pip para acelerar builds
+      - uses: actions/cache@v3
         with:
-          key: mkdocs-material-${{ env.cache_id }}
-          path: .cache 
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
           restore-keys: |
-            mkdocs-material-
-      - run: pip install mkdocs-material 
-      - run: mkdocs gh-deploy --force
+            ${{ runner.os }}-pip-
+
+      # 4️⃣ Instala MkDocs e tema Material
+      - run: pip install mkdocs-material
+
+      # 5️⃣ Build do site (gera a pasta site/)
+      - name: Build MkDocs site
+        run: mkdocs build
+
+      # 6️⃣ Debug: lista arquivos gerados (opcional)
+      - name: List generated site files
+        run: ls -R site
+
+      # 7️⃣ Deploy para GitHub Pages
+      - name: Deploy to GitHub Pages
+        run: mkdocs gh-deploy --force --remote-name origin
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
