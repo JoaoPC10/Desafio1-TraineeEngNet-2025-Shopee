@@ -6,6 +6,7 @@ nav:
   - Sobre o Projeto: sobre.md
   - Equipe: equipe.md
   - Contato: contato.md
+  - elicitacao: elicitacao/introspeccao.md
 
 theme:
   name: material
