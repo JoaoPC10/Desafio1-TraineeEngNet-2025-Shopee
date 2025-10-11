@@ -111,7 +111,16 @@ nav:
     - Apresentação VII: apresentacoes/apresentacao7.md
 theme:
   name: material
- logo: assets/logoShopee.png
+  palette:
+    # Este esquema terá um fundo CLARO (default)
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      primary: blue 
+
+    # Este esquema terá um fundo ESCURO (slate)
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate 
+      primary: deep orange
 icon:
   repo: fontawesome/brands/git-alt
 
