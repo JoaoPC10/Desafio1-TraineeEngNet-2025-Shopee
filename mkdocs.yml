@@ -111,21 +111,7 @@ nav:
     - Apresentação VII: apresentacoes/apresentacao7.md
 theme:
   name: material
-  palette:
-    - scheme: default
-      primary: blue
-      accent: light blue
-      name: Tema Claro
-      toggle:
-        icon: material/weather-night
-        name: Ativar modo escuro
-    - scheme: slate
-      primary: deep orange
-      accent: deep purple
-      name: Tema Escuro
-      toggle:
-        icon: material/weather-sunny
-        name: Ativar modo claro
+ logo: assets/logoShopee.png
 icon:
   repo: fontawesome/brands/git-alt
 
