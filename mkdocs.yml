@@ -1,10 +1,9 @@
-repo_url: https://github.com/Requisitos-de-Software/2025.2-Grupo03
-repo_name: 2025.2-Grupo03
-site_name: Grupo 03 - Requisitos de Software (2025.2)
-site_url: https://requisitos-de-software.github.io/2025.2-Grupo03/
+site_name: Shopee
+site_url: https://joaopc10.github.io/Desafio1-TraineeEngNet-2025-Shopee/
 
 theme:
   name: material
+  language: pt
   font:
     text: Roboto
   features:
@@ -20,76 +19,25 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-  language: pt
-
   palette:
     - scheme: default
-      toggle:
-        icon: material/toggle-switch
-        name: Dark mode
       primary: blue
       accent: light blue
-      background: "#f5f7fa"
-      text: "#22272e"
-    - scheme: slate
       toggle:
-        icon: material/toggle-switch-off-outline
-        name: Light mode
+        icon: material/weather-night
+        name: Modo escuro
+    - scheme: slate
       primary: blue grey
       accent: cyan
-      background: "#22272e"
-      text: "#f5f7fa"
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
 
 markdown_extensions:
   - attr_list
   - tables
+  - toc:
+      permalink: true
 
-nav:
-  - Home: index.md
-  - Atas: 
-    - Ata 09/09/2025 1: Atas/ata09-09-2025_1.md
-    - Ata 09/09/2025 2: Atas/ata09-09-2025_2.md
-    - Ata 10/09/2025: Atas/ata10-09-2025.md
-    - Ata 18/09/2025: Atas/ata18-09-2025.md
-  - Apresentação: 
-      - Introdução: Apresentação/apresentacao.md
-      - Apresentação 1: Apresentação/apresentacao1.md
-      - Apresentação 2: Apresentação/apresentacao2.md
-  - Planejamento: 
-    - HeatMap: Planejamento/heatmap.md
-    - Ferramentas: Planejamento/ferramentas.md
-    - Cronograma planejado: Planejamento/cronograma_planejado.md
-    - Cronograma executado: Planejamento/cronograma_executado.md
-    - Aplicativos avaliados: Planejamento/Aplicativos.md
-    - Aplicativo escolhido: Planejamento/aplicativo.md
-  - Rich Picture: Rich-picture/richpicture.md
-  - Verificação: 
-    - Entrega 1: Verificacao/verificacao.md
-    - Entrega 2: Verificacao/verificacao2.md
-    - Entrega 3: Verificacao/verificacao3.md
-  - Elicitação:
-    - Perfil de Usuário: Elicitacao/perfil_usuario.md
-    - Brainstorming - Perfil de Usuário: Elicitacao/brainstorming_perfil.md
-    - Requisitos Elicitados: Elicitacao/requisitos_elicitados.md
-    - Técnicas de Elicitação: 
-      - Análise de Documentos: Elicitacao/analise_de_documentos.md
-      - Entrevista: Elicitacao/entrevista.md
-      - Brainstorming - Elicitação: Elicitacao/brainstorming.md
-    - Técnicas de Priorização: 
-      - First Thing First: Elicitacao/first_thing_first.md
-      - Three Level Scale: Elicitacao/three_level_scale.md
-      - $100: Elicitacao/100_dolares.md
-      - MoSCoW: Elicitacao/moscow.md
-  - Modelagem:
-    - Metodologias Tradicionais:
-      - Casos de Uso: Modelagem/casos_de_uso.md
-      - Cenário: Modelagem/cenario.md
-      - Especificação Suplementar: Modelagem/especificacao_suplementar.md
-      - Léxico: Modelagem/lexico.md
-  - Inspeção:
-    - Grupo: 
-      - Entrega 1: Inspeção/inspeção_grupo_1.md
-      - Entrega 2: Inspeção/inspeção_grupo_2.md
-    - Grupo +1: 
-      - Entrega 1: Inspeção/inspeção_grupo_+1_1.md
-      - Entrega 2: Inspeção/inspeção_grupo_+1_2.md
+extra_css:
+  - assets/css/custom.css
