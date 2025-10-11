@@ -1,10 +1,10 @@
 # Shopee - Grupo Verde Limão
 
-<p align="center"><strong>Figura 1:</strong> Logo do Aplicatico da Shopee</p>
+<p align="center"><strong>Figura 1:</strong> Logo do Aplicativo da Shopee</p>
 
-<div align="center"><img src= "assets/logoShopee.png" width="200px;" alt=""/></div>
-
-
+<div align="center">
+  <img src="assets/logoShopee.png" width="200" alt="Logo Shopee">
+</div>
 
 # Desafio de Consultoria de Software
 
@@ -14,17 +14,43 @@ A equipe responsável pelo desenvolvimento deste projeto é composta por:
 <p align="center"><strong>Tabela 1:</strong> Integrantes do grupo</p>
 
 <table>
-    <tr>
-    <td align="center"><a href="https://github.com/AnnaClarafg"><img src="https://avatars.githubusercontent.com/u/169397157?v=4" width="200px;" alt=""/><br/><sub><b>Ana Clara</b></sub></a><br/>
-    <td align="center"><a href="https://github.com/Dev-Gabriel-Lima"><img src="https://avatars.githubusercontent.com/u/156694363?v=4" width="200px;" alt=""/><br /><sub><b>Gabriel</b></sub></a><br />
-    <td align="center"><a href="https://github.com/JoaoPC10"><img src="https://avatars.githubusercontent.com/u/104221138?v=4" width="200px;" alt=""/><br /><sub><b>João Igor</b></sub></a><br />
-    <td align="center"><a href="https://github.com/luisa12ll"><img src="https://avatars.githubusercontent.com/u/194189725?v=4" width="200px;" alt=""/><br /><sub><b>Luisa</b></sub></a><br />
-    <td align="center"><a href="https://github.com/edumoisessilva"><img src="https://avatars.githubusercontent.com/u/185516590?v=4" width="200px;" alt=""/><br /><sub><b>Moises</b></sub></a><br />
-    </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/AnnaClarafg">
+        <img src="https://avatars.githubusercontent.com/u/169397157?v=4" width="200" alt="Foto de Ana Clara"/><br/>
+        <sub><b>Ana Clara</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Dev-Gabriel-Lima">
+        <img src="https://avatars.githubusercontent.com/u/156694363?v=4" width="200" alt="Foto de Gabriel"/><br/>
+        <sub><b>Gabriel</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JoaoPC10">
+        <img src="https://avatars.githubusercontent.com/u/104221138?v=4" width="200" alt="Foto de João Igor"/><br/>
+        <sub><b>João Igor</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/luisa12ll">
+        <img src="https://avatars.githubusercontent.com/u/194189725?v=4" width="200" alt="Foto de Luisa"/><br/>
+        <sub><b>Luisa</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/edumoisessilva">
+        <img src="https://avatars.githubusercontent.com/u/185516590?v=4" width="200" alt="Foto de Moises"/><br/>
+        <sub><b>Moises</b></sub>
+      </a>
+    </td>
+  </tr>
 </table>
+
 <p align="center"><strong>Autor:</strong> João Igor</p>
 
-
+---
 
 ## O que é consultoria de software?
 
@@ -38,18 +64,21 @@ Cada equipe vai escolher um **aplicativo famoso** e fazer uma **engenharia rever
 
 ### 1. Entender o Problema
 
-Identifiquem a **dor do cliente** que o aplicativo soluciona. Por exemplo, o iFood resolve o problema de pedir comida de forma rápida e fácil.
+Identifiquem a **dor do cliente** que o aplicativo soluciona.  
+Por exemplo, o iFood resolve o problema de pedir comida de forma rápida e fácil.
 
 ### 2. Requisitos
 
-Quais são as **funcionalidades obrigatórias** (ex: pagamento, busca) e as **extras**? Organizem-nas de acordo com a importância para o usuário (por exemplo, usando a metodologia MoSCoW: Must Have, Should Have, Could Have, Won't Have).
+Quais são as **funcionalidades obrigatórias** (ex: pagamento, busca) e as **extras**?  
+Organizem-nas de acordo com a importância para o usuário (por exemplo, usando a metodologia MoSCoW:  
+Must Have, Should Have, Could Have, Won't Have).
 
 ### 3. Modelagem
 
-Traduzam a complexidade do aplicativo em **modelos visuais** (fluxogramas, diagramas UML, mapas de navegação) para entender a estrutura e as conexões entre as partes (ex: diagrama de classes para o banco de dados, fluxograma de *login*).
+Traduzam a complexidade do aplicativo em **modelos visuais** (fluxogramas, diagramas UML, mapas de navegação)  
+para entender a estrutura e as conexões entre as partes (ex: diagrama de classes para o banco de dados, fluxograma de *login*).
 
 ### 4. Entrega
 
-Compilem todo o trabalho em um **único documento**. O documento deve explicar as técnicas usadas e **justificar as decisões** da equipe para a arquitetura e funcionalidades propostas.
-
-
+Compilem todo o trabalho em um **único documento**.  
+O documento deve explicar as técnicas usadas e **justificar as decisões** da equipe para a arquitetura e funcionalidades propostas.
