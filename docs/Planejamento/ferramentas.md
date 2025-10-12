@@ -22,13 +22,13 @@ Tabela 1: ferramentas utilizadas
   <tbody>
     <tr>
       <td style="text-align: center;">
-        <img src="/imagens/ferramentas/logoCanva.png" width="100" height="100" alt="Canva">
+        <img src="../assets/logoCanva.png" width="100" height="100" alt="Canva">
       </td>
       <td><strong><a href="https://www.canva.com/">Canva</a></strong>: Criação da Rich Picture.</td>
     </tr>
     <tr>
       <td style="text-align: center;">
-        <img src="../imagens/ferramentas/logoGemini.svg" width="100" height="100" alt="Gemini">
+        <img src="../../imagens/ferramentas/logoGemini.svg" width="100" height="100" alt="Gemini">
       </td>
       <td><strong><a href="https://gemini.google.com/">Gemini</a></strong>: Apoio na geração de conteúdos dos artefatos, markdown e correção textual.</td>
     </tr>
