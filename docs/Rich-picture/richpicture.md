@@ -14,29 +14,8 @@ A elaboração do nosso Rich Picture foi feita através da ferramenta Canva. Log
 <div align="center"><strong>Autores: <a href="https://github.com/TiagoTeixeira-2005">Tiago Lemes</a> e <a href="https://github.com/ArthurGuilher62">Arthur Guilherme</a></strong></div>
 
 
-**Figura 2: Legenda do Rich Picture do SAE**
-
-![Figura 2: Legenda do Rich Picture do SAE](../imagens/legendaRichPicture.png)
-
-<div align="center"><strong>Autores: <a href="https://github.com/TiagoTeixeira-2005">Tiago Lemes</a> e <a href="https://github.com/ArthurGuilher62">Arthur Guilherme</a></strong></div>
-
-
-**Figura 3: Legenda dos principais tópicos do SAE**
-
-![Figura 3: Legenda dos principais tópicos do SAE](../imagens/legendaSAE.jpeg)
-
-<div align="center"><strong>Autores: <a href="https://github.com/TiagoTeixeira-2005">Tiago Lemes</a> e <a href="https://github.com/ArthurGuilher62">Arthur Guilherme</a></strong></div>
-
-
-## Referências
-CTEC2402 Software Development Project, Introducing Rich Pictures
-
-SAE, Sistema de Apoio Educacional. Disponível em: [https://sae.unb.br/ajudasae/conhecasae/conteudos/projeto.html](https://sae.unb.br/ajudasae/conhecasae/conteudos/projeto.html). Acesso em: 6 set. 2025.
-
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor |
 | ---- | ----- | ----- | ---- | ----- | 
-| 1.0 | 05/09/2025 | Elaboração do Rich Picture | [Tiago Lemes](https://github.com/TiagoTeixeira-2005) e [Arthur Guilherme](https://github.com/ArthurGuilher62) | [Felipe Guimaraes](https://github.com/felipegf1) |
-| 1.0 | 06/09/2025 | Criação da página de documentação | [Felipe Guimaraes](https://github.com/felipegf1) | [Vilmar José](https://github.com/VilmarFagundes) |
-| 1.1 | 12/09/2025 | Correção da legenda da Rich Picture e dos principais tópicos do SAE | [Tiago Lemes](https://github.com/TiagoTeixeira-2005) | [Vilmar José](https://github.com/VilmarFagundes) |
+| 1.0 | 12/10/2025 | Preenchimento das infos iniciais e criação do rich picture | [João Igor](https://github.com/JoaoPC10) | [Gabriel](https://github.com/Dev-Gabriel-Lima) |

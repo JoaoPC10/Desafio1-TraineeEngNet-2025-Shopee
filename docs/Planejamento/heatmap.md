@@ -12,7 +12,7 @@ A lógica fundamental do heatmap é simples: os valores de dados são traduzidos
 
 Analisando o Heat Map, podemos ver que:
 
-- Durante a semana, temos segunda a quinta à noite (20h-22h) como um bom horário  
+- Durante a semana, temos segunda a sexta à noite (20h-22h) como um bom horário  
 - Durante o fim de semana, temos o domingo durante o dia todo como um ótimo horário
 
 ## Histórico de versão

@@ -1,7 +1,7 @@
 # SHOPEE
 
 <h1 align="center">
-    <img src="./imagens/logoShopee.png" height="250"alt="Logo Shopee">
+    <img src="./imagens/logoShopee.png" height="150"alt="Logo Shopee">
 </h1>
 
 <font size="2"><p style="text-align: center"> **Imagem 1** : Logo da Shopee</p></font>
@@ -19,7 +19,7 @@ Foi escolhido pelos membros do grupo em conjunto, levando em consideração que 
 
 ## Desafio de Consultoria de Software
 
-## Membros da Equipe
+### Membros da Equipe
 
 <table>
     <tr>
@@ -57,3 +57,6 @@ Traduzam a complexidade do aplicativo em **modelos visuais** (fluxogramas, diagr
 ### 4. Entrega
 
 Compilem todo o trabalho em um **único documento**. O documento deve explicar as técnicas usadas e **justificar as decisões** da equipe para a arquitetura e funcionalidades propostas.
+| Versão | Data | Descrição | Autor(es) | Revisor |
+| ---- | ----- | ----- | ---- | ----- | 
+| 1.0 | 12/10/2025 | Criação da página| [João Igor](https://github.com/JoaoPC10) | [Gabriel](https://github.com/Dev-Gabriel-Lima) |
