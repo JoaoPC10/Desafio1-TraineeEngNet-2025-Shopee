@@ -43,10 +43,8 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Atas: 
-    - Ata 09/09/2025 1: Atas/ata07-10-2025_1.md
-    - Ata 09/09/2025 2: Atas/ata09-09-2025_2.md
-    - Ata 10/09/2025: Atas/ata10-09-2025.md
-    - Ata 18/09/2025: Atas/ata18-09-2025.md
+    - Ata 07/10/2025: Atas/ata07-10-2025_1.md
+    - Ata 12/10/2025: Atas/ata12-10-2025_2.md
   - Planejamento: 
     - HeatMap: Planejamento/heatmap.md
     - Ferramentas: Planejamento/ferramentas.md
