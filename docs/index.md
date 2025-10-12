@@ -21,7 +21,7 @@ O aplicativo é conhecido por integrar a experiência de compra com elementos so
 
 <table>
     <tr>
-    <td align="center"><a href="https://github.com/AnnaClarafg"><img src="https://avatars.githubusercontent.com/u/169397157?v=4" width="200px;" alt=""/><br/><sub><b>Ana Clara</b></sub></a><br/>
+    <td align="center"><a href="https://github.com/AnnaClarafg"><img src="https://avatars.githubusercontent.com/u/169397157?v=4" width="200px;" alt=""/><br/><sub><b>Anna Clara</b></sub></a><br/>
     <td align="center"><a href="https://github.com/Dev-Gabriel-Lima"><img src="https://avatars.githubusercontent.com/u/156694363?v=4" width="200px;" alt=""/><br /><sub><b>Gabriel</b></sub></a><br />
     <td align="center"><a href="https://github.com/JoaoPC10"><img src="https://avatars.githubusercontent.com/u/104221138?v=4" width="200px;" alt=""/><br /><sub><b>João Igor</b></sub></a><br />
     <td align="center"><a href="https://github.com/edumoisessilva"><img src="https://avatars.githubusercontent.com/u/185516590?v=4" width="200px;" alt=""/><br /><sub><b>Moisés</b></sub></a><br />
