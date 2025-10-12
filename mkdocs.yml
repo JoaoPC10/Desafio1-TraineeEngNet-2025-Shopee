@@ -50,7 +50,7 @@ nav:
   - Planejamento: 
     - HeatMap: Planejamento/heatmap.md
     - Ferramentas: Planejamento/ferramentas.md
-    - Cronograma executado: Planejamento/cronograma_executado.md
+    - Cronograma a ser executado: Planejamento/cronograma_executado.md
     - Aplicativo escolhido: Planejamento/aplicativo.md
   - Rich Picture: Rich-picture/richpicture.md
   - Elicitação:

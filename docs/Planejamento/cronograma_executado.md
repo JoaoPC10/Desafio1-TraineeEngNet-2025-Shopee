@@ -1,7 +1,7 @@
-# Cronograma Executado do Projeto 
+# Cronograma a ser Executado do Projeto 
 
 ## Introdução 
-Este documento apresenta o cronograma executado na disciplina de Requisitos de Software, com base no [cronograma planejado](https://requisitos-de-software.github.io/2025.2-Grupo03/Planejamento/cronograma_planejado/) do projeto SAE. Também foram consideradas referências anteriores utilizadas em semestres passados, como os projetos [TikTok (2022.1)](https://requisitos-de-software.github.io/2022.1-TikTok/cronograma/), [Lichess (2022.2)](https://requisitos-de-software.github.io/2022.2-Lichess/planejamento/cronograma_realizado/#ponto-de-controle-7) e [Bilheteria Digital](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/#entrega-final). 
+Este documento apresenta o cronograma a ser executado na dinâmica de Consultoria do Trainee da EngNet.
 
 ## Entregas do Projeto
 
