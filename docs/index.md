@@ -15,6 +15,8 @@ A principal característica do Shopee é seu modelo de marketplace, onde a diver
 
 O aplicativo é conhecido por integrar a experiência de compra com elementos sociais e de entretenimento, como jogos, transmissões ao vivo (live commerce) e sistemas de moedas (Coins) e cupons que incentivam a fidelidade e a interação diária. Assim, o Shopee se destaca não apenas como um local para finalizar compras, mas como um destino de descoberta e ofertas, com ênfase na logística eficiente e na facilidade de uso via aplicativo móvel.
 
+Foi escolhido pelos membros do grupo em conjunto, levando em consideração que deveríamos "escolher um aplicativo famoso e fazer uma engenharia reversa".
+
 ## Desafio de Consultoria de Software
 
 ## Membros da Equipe
