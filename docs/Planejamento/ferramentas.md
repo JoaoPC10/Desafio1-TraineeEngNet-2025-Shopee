@@ -22,7 +22,7 @@ Tabela 1: ferramentas utilizadas
   <tbody>
     <tr>
       <td style="text-align: center;">
-        <img src="../imagens/ferramentas/logoCanva.png" width="100" height="100" alt="Canva">
+        <img src="/imagens/ferramentas/logoCanva.png" width="100" height="100" alt="Canva">
       </td>
       <td><strong><a href="https://www.canva.com/">Canva</a></strong>: Criação da Rich Picture.</td>
     </tr>
