@@ -50,7 +50,7 @@ nav:
     - Ferramentas: Planejamento/ferramentas.md
     - Cronograma a ser executado: Planejamento/cronograma_executado.md
   - Rich Picture: Rich-picture/richpicture.md
-  - Elicitação: requisitos_elicitados.md 
+  - Elicitação: Elicitacao/requisitos_elicitados.md 
   - Técnicas de Elicitação: 
     - Análise de Documentos: Elicitacao/analise_de_documentos.md
     - Entrevista: Elicitacao/entrevista.md
