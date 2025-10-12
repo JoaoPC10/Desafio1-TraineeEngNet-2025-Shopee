@@ -1,7 +1,7 @@
 # SHOPEE
 
 <h1 align="center">
-    <img src="./imagens/logoShopee.png" height="150"alt="Logo Shopee">
+    <img src="./imagens/logoShopee.png" width="200px;" alt="Logo Shopee">
 </h1>
 
 <font size="2"><p style="text-align: center"> **Imagem 1** : Logo da Shopee</p></font>
