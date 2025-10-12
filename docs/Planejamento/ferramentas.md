@@ -95,15 +95,15 @@ Tabela 1: ferramentas utilizadas
 
 ## Referências  
 
-[1] CANVA. Disponível em: [https://www.canva.com/](https://www.canva.com/). Acesso em: 09 de abril de 2025.  
+[1] CANVA. Disponível em: [https://www.canva.com/](https://www.canva.com/). Acesso em: 12 de outubro de 2025.
 
-[2] FIGMA. Disponível em: [https://www.figma.com/](https://www.figma.com/). Acesso em: 09 de abril de 2025.  
+[2] FIGMA. Disponível em: [https://www.figma.com/](https://www.figma.com/). Acesso em: 12 de outubro de 2025.
 
-[3] GEMINI. Disponível em: [https://gemini.google.com/](https://gemini.google.com/). Acesso em: 09 de abril de 2025.  
+[3] GEMINI. Disponível em: [https://gemini.google.com/](https://gemini.google.com/). Acesso em: 12 de outubro de 2025.
 
-[4] GITHUB. Disponível em: [https://github.com/](https://github.com/). Acesso em: 09 de abril de 2025.   
+[4] GITHUB. Disponível em: [https://github.com/](https://github.com/). Acesso em: 12 de outubro de 2025.
 
-[5] GOOGLE DOCS. Disponível em: [https://www.google.com/docs/about/](https://www.google.com/docs/about/). Acesso em: 09 de abril de 2025.  
+[5] GOOGLE DOCS. Disponível em: [https://www.google.com/docs/about/](https://www.google.com/docs/about/). Acesso em: 12 de outubro de 2025.  
 
 [6] GOOGLE PLANILHAS. Disponível em: [https://www.google.com/sheets/about/](https://www.google.com/sheets/about/). Acesso em: 12 de outubro de 2025. 
 
