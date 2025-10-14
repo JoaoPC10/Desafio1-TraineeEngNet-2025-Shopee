@@ -44,6 +44,7 @@ Elaboração por <a href="https://github.com/AnnaClarafg">Anna Clara</a>,
 <a href="https://github.com/luisa12ll">Luisa de Souza</a> e 
 <a href="https://github.com/edumoisessilva">Moisés</a>.
 
+
 ### Requisitos Não Funcionais 
 
 | ID    | Descrição | Técnicas | 
@@ -60,6 +61,7 @@ Elaboração por <a href="https://github.com/AnnaClarafg">Anna Clara</a>,
 | RNF10 | O sistema deve validar os dados do cartão ou pagamento em menos de 15 segundos | Introspecção | 
 | RNF11 | O usuário deve conseguir ler descrições detalhadas dos produtos, com texto legível e claro | Observação | 
 
+
 <p style="text-align: center; font-size: 14px;">
 Tabela 2 – Conjunto de requisitos não funcionais elicitados.<br>
 Elaboração por <a href="https://github.com/AnnaClarafg">Anna Clara</a>, 
@@ -67,6 +69,7 @@ Elaboração por <a href="https://github.com/AnnaClarafg">Anna Clara</a>,
 <a href="https://github.com/JoaoPC10">João Igor</a>,
 <a href="https://github.com/luisa12ll">Luisa de Souza</a> e 
 <a href="https://github.com/edumoisessilva">Moisés</a>.
+
 
 
 | Versão | Data | Descrição | Autor(es) 
