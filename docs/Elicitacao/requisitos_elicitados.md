@@ -15,91 +15,85 @@ Legenda das Tabelas:
 
 ### Funcionais
 
-Tabela 1: Requisitos Funcionais
+## Gabriel
+Prioridade | Requisito Funcional
+--- | ---
+Essencial | O sistema deve permitir o cadastro de usuários (compradores e vendedores).
+Essencial | O sistema deve permitir o cadastro de produtos pelos vendedores.
+Essencial | O sistema deve permitir a pesquisa de produtos por nome ou categoria.
+Essencial | O sistema deve permitir aplicar filtros de preço, localização, avaliação, etc.
+Essencial | O sistema deve permitir a adição de produtos ao carrinho.
+Essencial | O sistema deve permitir a realização de pagamentos via Shopee Pay ou cartão.
+Importante | O sistema deve permitir a aplicação de cupons de desconto.
+Importante | O sistema deve permitir acompanhar o status do pedido.
+Importante | O sistema deve permitir ao usuário avaliar produtos e vendedores.
+Desejável | O sistema deve sugerir produtos com base em buscas anteriores.
+Desejável | O sistema deve exibir promoções e campanhas sazonais.
 
-| ID   | Descrição | Técnicas | Implementado |
-|------|-----------|----------|--------------|
-| RF01 | O sistema deve identificar cada indivíduo (aluno, monitor, professor, coordenador, diretor, administrador)                 | [Análise de Documento](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/analise_de_documentos/#requisitos-funcionais) | Sim          |
-| RF02 | O sistema deve ter perfil individual                   | [Análise de Documento](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/analise_de_documentos/#requisitos-funcionais) | Sim          |
-| RF03 | Deve mapear conceitos relacionados ao conteúdo, respeitando a hierarquia da Teoria da Aprendizagem Significativa (TAS).                                                     | [Análise de Documento](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/analise_de_documentos/#requisitos-funcionais) | Sim          |
-| RF04 | O sistema deve agregar o processo formal de avaliação (Plano de Ensino) com o ambiente virtual.                                                | [Análise de Documento](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/analise_de_documentos/#requisitos-funcionais) | Sim          |
-| RF05 | Deve integrar a avaliação docente com as inferências do SAE.                                                                     | [Análise de Documento](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/analise_de_documentos/#requisitos-funcionais) | Sim          |
-| RF06 | O assistente virtual deve combinar resultados formais com inferências Fuzzy.                                                | [Análise de Documento](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/analise_de_documentos/#requisitos-funcionais) | Sim          |
-| RF07 | A interface deve conter o progresso do aluno na disciplina toda                                                      | [Brainstorming](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/brainstorming/#requisitos-elicitados)| Sim          |
-| RF08 | A interface deve exibir um progresso em porcentagem do andamento da disciplina    | [Brainstorming](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/brainstorming/#requisitos-elicitados) | Não          |
-| RF09 | A interface deve exibir como está a porcentagem de acertos das atividades de cada conteúdo    | [Brainstorming](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/brainstorming/#requisitos-elicitados) | Não          |
-| RF10 | A interface deve exibir como está a porcentagem de erros das atividades de cada conteúdo | [Brainstorming](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/brainstorming/#requisitos-elicitados) | Não          |
-| RF11 | A interface deve exibir a média geral da turma em cada atividade                        | [Brainstorming](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/brainstorming/#requisitos-elicitados)| Não          |
-| RF12 | A interface deve exibir a média do usuário após a atividade                                    | [Brainstorming](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/brainstorming/#requisitos-elicitados) | Sim          |
-| RF13 | O usuário deve escolher o tempo em que deseja receber alertas sobre atividades atrasadas                                                           | [Brainstorming](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/brainstorming/#requisitos-elicitados) | Não          |
-| RF14 | O usuário pode marcar os tópicos da disciplina no qual ele sente mais facilidade              | [Brainstorming](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/brainstorming/#requisitos-elicitados) | Não          |
-| RF15 | O sistema deve enviar notificações para lembrar o usuário de revisar conteúdos passados                            | [Brainstorming](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/brainstorming/#requisitos-elicitados) | Não          |
-| RF16 | O sistema deve ter um índice de conteúdos ordenado pela porcentagem de erros em cada conteúdo                                                                | [Brainstorming](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/brainstorming/#requisitos-elicitados) | Não          |
-| RF17 | O sistema deve possuir vídeo aula                                                          | [Brainstorming](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/brainstorming/#requisitos-elicitados) | Sim          |
-| RF18 | O sistema deve pedir ao usuário a melhor forma de caminho de notificação                | [Entrevista](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/entrevista/) | Não          |
-| RF19 | O sistema deve enviar uma notificação quando está chegando perto da data de entrega de uma atividade            | [Entrevista](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/entrevista/) | Não          |
-| RF20 | O usuário escolhe quando ele recebe a notificação de proximidade da data de entrega de atividade                             | [Entrevista](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/entrevista/) | Não          |
-| RF21 | O sistema deve fornecer dados e informações analíticas em diferentes níveis (individual, turma, entre turmas)                                                                     | [Análise de Documento](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/analise_de_documentos/#requisitos-funcionais) | Sim          |
-| RF22 | As análises devem ser em tempo real e apresentadas em gráficos (barra, coluna, linha, pizza).                        | [Análise de Documento](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/analise_de_documentos/#requisitos-funcionais) | Sim          |
-| RF23 | Deve mostrar como o desempenho está sendo calculado.                        | [Análise de Documento](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/analise_de_documentos/#requisitos-funcionais) | Não          |
-| RF24 | O sistema deve permitir a criação e organização de questões interativas para apoiar o ensino-aprendizagem.         | [Análise de Documento](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/analise_de_documentos/#requisitos-funcionais) | Sim          |
-| RF25 | Deve promover a interação dos alunos com as questões, avaliando seu conhecimento informativo e formativo.    | [Análise de Documento](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/analise_de_documentos/#requisitos-funcionais) | Sim          |
-| RF26 | O SAE deve fornecer assistência para professores neste módulo | [Análise de Documento](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/analise_de_documentos/#requisitos-funcionais) | Sim          |
-| RF27 | O SAE deve fornecer assistência para alunos neste módulo.                    | [Análise de Documento](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/analise_de_documentos/#requisitos-funcionais) | Sim          |
-| RF28 | O sistema deve conter um banco de questões geradas pelo professor         | [Brainstorming](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/brainstorming/#requisitos-elicitados) | Sim          |
-| RF29 | O banco de questões do sistema deve conter questões de outras origens | [Brainstorming](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/brainstorming/#requisitos-elicitados) | Não          |
-| RF30 | O sistema deve direcionar cada aluno a materiais adequados à sua situação cognitiva e preferências. | [Análise de Documento](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/analise_de_documentos/#requisitos-funcionais) | Sim          |
-| RF31 | Os materiais devem estar postados em tópicos de conteúdos separados na disciplina         | [Brainstorming](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/brainstorming/#requisitos-elicitados) | Não          |
-| RF32 | O banco de questões deve estar separado por conteúdo            | [Brainstorming](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/brainstorming/#requisitos-elicitados) | Sim          |
-| RF33 | O sistema deve integrar outros softwares educacionais (como AVAs). | [Análise de Documento](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/analise_de_documentos/#requisitos-funcionais) | Não         |
-| RF34 | A integração deve reduzir o esforço de professores e monitores, centralizando informações sobre atividades e desempenho. | [Análise de Documento](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/analise_de_documentos/#requisitos-funcionais) | Sim         |
-| RF35 | O sistema deve criar um personagem antropomórfico para interação direta com o estudante. | [Análise de Documento](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/analise_de_documentos/#requisitos-funcionais) | Sim         |
-| RF36 | A interação deve visar a compreensão da situação de aprendizagem. | [Análise de Documento](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/analise_de_documentos/#requisitos-funcionais) | Sim         |
-| RF37 | A inferência deve envolver Lógica Fuzzy, permitindo avaliações graduais (ex.: "bom", "razoável", "fraco"). | [Análise de Documento](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/analise_de_documentos/#requisitos-funcionais) | Sim         |
-| RF38 | O assistente virtual deve ser visível na interface | [Brainstorming](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/brainstorming/#requisitos-elicitados) | Sim         |
-| RF39 | O assistente virtual deve ser customizável pelo usuário                                    | [Brainstorming](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/brainstorming/#requisitos-elicitados) | Não          |
-| RF40 | O assistente virtual deve sugerir questões com o conteúdo da vídeo aula                      | [Brainstorming](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/brainstorming/#requisitos-elicitados) | Sim          |
-| RF41 | O assistente virtual deve notificar qual conteúdo o aluno está tendo mais dificuldade              | [Brainstorming](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/brainstorming/#requisitos-elicitados) | Não         |
-| RF42 | O assistente virtual deve notificar o professor da disciplina com que parte do conteúdo os alunos estão tendo mais dificuldade   | [Brainstorming](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/brainstorming/#requisitos-elicitados) | Sim          |
-| RF43 | O sistema deve facilitar a interação entre monitores, professores e alunos. | [Análise de Documento](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/analise_de_documentos/#requisitos-funcionais) | Sim        |
-| RF44 | Deve fornecer chat síncrono para interação a distância. | [Análise de Documento](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/analise_de_documentos/#requisitos-funcionais) | Sim        |
-| RF45 | O assistente virtual deve acompanhar interações                                        | [Análise de Documento](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/analise_de_documentos/#requisitos-funcionais) | Sim |
-| RF46 | O assistente virtual deve fornecer dados relevantes ao usuário (progresso do aluno)                                | [Análise de Documento](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/analise_de_documentos/#requisitos-funcionais) | Sim |
-| RF47 | Deve disponibilizar informações sobre horários e locais de monitoria.           | [Análise de Documento](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/analise_de_documentos/#requisitos-funcionais) | Sim |
-| RF48 | O assistente virtual deve fornecer orientação pedagógica individualizada, baseada na TAS e no desejo didático dos docentes.             | [Análise de Documento](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/analise_de_documentos/#requisitos-funcionais) | Sim |
-| RF49 | O assistente virtual deve analisar a situação cognitiva de cada aluno e atuar como agente colaborativo na aprendizagem.                              | [Análise de Documento](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/analise_de_documentos/#requisitos-funcionais) | Não |
-| RF50 | O sistema deve apresentar ao professor qual aluno sabe sobre o conteúdo                               | [Entrevista](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/entrevista/) | Não |
-| RF51 | O sistema deve apresentar ao professor qual aluno possui um comportamento adequado (entrega de atividades, presença na aula)                             | [Entrevista](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/entrevista/) | Não |
+---
 
-<div align="center">
-  <strong>Fonte: <a href="https://github.com/TiagoTeixeira-2005">Tiago Lemes</a> , <a href="https://github.com/ArthurGuilher62">Arthur Guilherme</a> , <a href="https://github.com/felipegf1">Felipe Guimaraes</a> e <a href="https://github.com/VilmarFagundes">Vilmar José</a> </strong>
-</div>
+Categoria | Requisito Não Funcional
+--- | ---
+Desempenho | O sistema deve suportar um grande número de usuários simultâneos.
+Usabilidade | O sistema deve ter uma interface intuitiva e fácil de usar.
+Responsividade | O sistema deve funcionar corretamente em dispositivos móveis e desktops.
+Confiabilidade | O sistema deve manter a integridade e segurança dos dados do usuário.
+Eficiência | O tempo de carregamento das páginas não deve ultrapassar 5 segundos.
+Segurança | O sistema deve proteger informações sensíveis, como dados de pagamento.
 
-### Requisitos Não Funcionais 
+## Luisa
 
-Tabela 2: Requisitos Não Funcionais
+| Identificação | Descrição | Categoria | Implementado | Versão |
+| :---- | :---- | :---- | :---- | :---- |
+| UC01 | O usuário deve conseguir criar conta em no máximo 55 segundos. | Funcional  | Sim | 1.0 |
+| UC02 | O sistema deve confirmar o cadastro com um e-mail em até 30 segundos. | Funcional | Sim | 1.0 |
+| UC03 | O usuário deve conseguir buscar produtos em menos de 3 segundos após digitar. | Não Funcional | Sim | 1.0 |
+| UC04 | O sistema deve mostrar resultados relevantes em uma lista clara e objetiva. | Funcional | Sim | 1.0 |
+| UC05 | O usuário deve poder filtrar produtos por preço, avaliação e entrega em até 5 segundos. | Funcional | Sim | 1.0 |
+| UC06 | O sistema deve permitir que o usuário veja até 5 imagens por produto em menos de 10 segundos. | Funcional | Sim | 1.0 |
+| UC07 | O usuário deve conseguir ler descrições detalhadas dos produtos, com texto legível e claro. | Funcional | Sim | 1.0 |
+| UC08 | O sistema deve mostrar avaliações e comentários de outros compradores em menos de 3 segundos. | Funcional | Sim | 1.0 |
+| UC09 | O carrinho deve atualizar o total em até 2 segundos após a adição ou remoção de produto. | Funcional | Sim | 1.0 |
+| UC10 | O usuário deve escolher opções de pagamento com clareza e segurança em até 10 segundos. | Funcional | Sim | 1.0 |
+| UC11 | O sistema deve validar os dados do cartão ou pagamento em menos de 15 segundos. | Funcional | Sim | 1.0 |
+| UC12 | O usuário deve receber confirmação imediata da compra em até 10 segundos. | Funcional | Sim | 1.0 |
+| UC13 | O sistema deve enviar e-mail de confirmação da compra em até 30 segundos. | Funcional | Sim | 1.0 |
+| UC14 | O sistema deve notificar o usuário imediatamente sobre mudanças no status do pedido, em até 10 segundos. | Funcional | Sim | 1.0 |
+| UC15 | O usuário deve poder avaliar produto em até 20 segundos após o recebimento. | Funcional | Sim | 1.0 |
+| UC16 | O sistema deve permitir que o usuário restaure a senha pelo e-mail cadastrado.. | Funcional | Sim | 1.0 |
+| UC17 | A interface deve ser acessível para pessoas com deficiências, conforme normas de acessibilidade. | Não Funcional | Sim | 1.0 |
+| UC18 | O sistema deve possuir termos e políticas de privacidade claros e acessíveis.. | Funcional | Sim | 1.0 |
+| UC19 | O sistema deve permitir que o usuário avalie produtos e vendedores. | Funcional | Sim | 1.0 |
+| UC20 | O sistema deve permitir ao usuário cadastrar múltiplos métodos de pagamento (cartão, boleto, PayPal).. | Funcional | Sim | 1.0 |
+| UC21 | O sistema deve suportar múltiplos idiomas. | Não funcional | Sim | 1.0 |
+| UC25 | O sistema deve proteger os dados pessoais do usuário conforme a LGPD, solicitando consentimento claro. | não funcional | Sim | 1.0 |
+| UC30 | O usuário deve conseguir finalizar a compra rapidamente, com o processo total levando menos de 2 minutos. | Funcional | Sim | 1.0 |
 
-| ID    | Descrição | Técnicas | Implementado |
-|-------|-----------|----------|--------------|
-| RNF01 | A interface deve se adaptar automaticamente ao perfil de cada indivíduo (aluno, monitor, professor, etc.). | [Análise de Documento](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/analise_de_documentos/#requisitos-nao-funcionais) | Sim |
-| RNF02 | O sistema deve ser acessível pela internet, presencial ou a distância. | [Análise de Documento](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/analise_de_documentos/#requisitos-nao-funcionais) | Sim |
-| RNF03 | O ambiente deve ter tempo de resposta de até 1 segundo para todos os perfis de usuários. | [Análise de Documento](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/analise_de_documentos/#requisitos-nao-funcionais) | Sim |
-| RNF04 | Deve se basear na extensão de um Sistema Tutor Inteligente (STI) para um Assistente Virtual de Ensino Inteligente (ITA). | [Análise de Documento](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/analise_de_documentos/#requisitos-nao-funcionais) | Sim |
-| RNF05 | Deve empregar recursos tecnológicos alinhados à Teoria da Aprendizagem Significativa (TAS). | [Análise de Documento](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/analise_de_documentos/#requisitos-nao-funcionais) | Sim |
-| RNF06 | Projeto multidisciplinar envolvendo Educação, Psicologia e Informática. | [Análise de Documento](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/analise_de_documentos/#requisitos-nao-funcionais) | Sim |
-| RNF07 | As análises do módulo MAD devem ser realizadas em tempo real. | [Análise de Documento](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/analise_de_documentos/#requisitos-nao-funcionais) | Sim |
-| RNF08 | O sistema deve garantir que os dados dos estudantes sejam armazenados de forma segura e criptografada. | [Entrevista](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/entrevista/) | Sim |
-| RNF09 | O sistema deve estar disponível 24 horas por dia, 7 dias por semana, com tempo de indisponibilidade máximo de 1% ao mês. | [Entrevista](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/entrevista/) | Sim |
-| RNF10 | O tempo de resposta para carregamento de dashboards e gráficos deve ser inferior a 3 segundos.   | [Entrevista](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/entrevista/) | Não |
-| RNF11 | O sistema deve ser compatível com dispositivos móveis (responsividade).                          | [Entrevista](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/entrevista/) | Não |
-| RNF12 | O sistema deve seguir padrões de acessibilidade para garantir usabilidade a todos os usuários. | [Entrevista](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/entrevista/) | Não |
-| RNF13 | O sistema deve possibilitar integração com outros AVAs e sistemas educacionais externos. | [Entrevista](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/entrevista/) | Não |
-| RNF14 | O sistema deve permitir escalabilidade para atender um número crescente de alunos e módulos sem perda de desempenho. | [Entrevista](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/entrevista/) | Sim |
-| RNF15 | O sistema deve garantir a privacidade dos dados dos estudantes em conformidade com a LGPD.       | [Entrevista](https://requisitos-de-software.github.io/2025.2-Grupo03/Elicitacao/entrevista/) | Sim|
+## Anna Clara
 
-<div align="center">
-  <strong>Fonte: <a href="https://github.com/TiagoTeixeira-2005">Tiago Lemes</a> e <a href="https://github.com/ArthurGuilher62">Arthur Guilherme</a></strong>
-</div>
+# Elicitação de Requisitos - Shopee
+
+## Requisitos Funcionais
+
+| Código | Descrição |
+|:-------|:-----------|
+| **RF01** | O sistema precisa cadastrar os usuários por meio de:<br> - E-mail<br> - Facebook<br> - Apple<br> - Google<br> - Números de telefone com senha |
+| **RF02** | Cadastro de produtos, permitindo as operações de: <br> - Inserir <br> - Editar <br> - Remover |
+| **RF03** | Busca e filtro de produtos |
+| **RF04** | Carrinho de compras |
+| **RF05** | Configurações |
+| **RF06** | Carrinho de compras com pagamento online |
+| **RF07** | Pagamento online |
+| **RF08** | Notificações |
+
+---
+
+📄 **Observação:** Os requisitos acima descrevem as principais funcionalidades esperadas do sistema Shopee, conforme levantamento inicial de requisitos.
+
+
+## Moisés
+
+## João Igor
 
 
 | Versão | Data | Descrição | Autor(es) | Revisor |

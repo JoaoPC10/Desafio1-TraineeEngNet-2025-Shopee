@@ -1,17 +1,20 @@
 # Rich Picture
 
 ## Introdução
-O Rich Picture é uma técnica visual colaborativa utilizada para explorar e comunicar a complexidade de sistemas de maneira simples e intuitiva. Na engenharia de requisitos, ele funciona como um recurso importante para representar os principais elementos de um sistema, como usuários, processos, fluxos de informação, armazenamento de dados, limites e possíveis problemas. Por ser uma representação informal, favorece uma visão sistêmica, estimula o diálogo entre os participantes do projeto e auxilia na identificação de requisitos e pontos críticos.
+O Rich Picture é uma técnica visual e colaborativa fundamental na engenharia de requisitos, projetada para simplificar a comunicação e a exploração de sistemas complexos de forma intuitiva. Ele serve como um recurso essencial para representar os principais componentes do sistema, incluindo usuários, processos, fluxos de informação, armazenamento de dados, limites do sistema e quaisquer problemas potenciais. Devido à sua natureza informal, o Rich Picture favorece a obtenção de uma visão sistêmica abrangente, ao mesmo tempo que estimula o diálogo entre todos os participantes do projeto, auxiliando crucialmente na identificação de requisitos e na detecção de pontos críticos.
 
-Nesse projeto, o Rich Picture foi desenvolvido com base no sistema SAE, escolhido pelo grupo pela afinidade com o uso e por ser um sistema presente na vida acadêmica de muitos estudantes da FCTE. Aqui utilizamos o Rich Picture para representar os atores, as funcionalidades, principais ações e os limites do sistema.
 
-A elaboração do nosso Rich Picture foi feita através da ferramenta Canva. Logo abaixo, temos o Rich Picture do SAE (Figura 1), sua legenda (Figura 2) e a legenda dos principais tópicos do SAE (Figura 3).
+**Figura 1: Rich Picture da Shopee**
 
-**Figura 1: Rich Picture do SAE**
+![Figura 1: Rich Picture da Shopee](../imagens/aplicativosAvaliados/richPictureShopee.png)
 
-![Figura 1: Rich Picture do SAE](../imagens/RichPicture-SAE.jpg)
+### Legenda
 
-<div align="center"><strong>Autores: <a href="https://github.com/TiagoTeixeira-2005">Tiago Lemes</a> e <a href="https://github.com/ArthurGuilher62">Arthur Guilherme</a></strong></div>
+Para melhor entendimento da imagem, abaixo está uma figura de referência contendo as características e significados de cada elemnto em um Rich Picture.
+
+![Figura 2: Rich Picture do SAE](../imagens/ReferenciaRichPicture.png)
+
+<div align="center"><strong>Autoria de: <a href="https://github.com/JoaoPC10">João Igor</a></strong></div>
 
 
 ## Histórico de versão
