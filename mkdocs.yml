@@ -51,11 +51,7 @@ nav:
     - Cronograma a ser executado: Planejamento/cronograma_executado.md
   - Rich Picture: Rich-picture/richpicture.md
   - Elicitação: 
-    - Requisitos Elicitados: Elicitacao/requisitos_elicitados.md 
-    - Técnicas de Elicitação: 
-      - Análise de Documentos: Elicitacao/analise_de_documentos.md
-      - Entrevista: Elicitacao/entrevista.md
-      - Brainstorming - Elicitação: Elicitacao/brainstorming.md
+    - Requisitos Elicitados: Elicitacao/requisitos_elicitados.md
     - Técnicas de Priorização: 
       - Three Level Scale: Elicitacao/three_level_scale.md
       - MoSCoW: Elicitacao/moscow.md
