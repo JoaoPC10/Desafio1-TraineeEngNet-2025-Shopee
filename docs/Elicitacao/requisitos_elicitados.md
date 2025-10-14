@@ -35,6 +35,7 @@ Os requisitos foram organizados em duas tabelas: a Tabela 1 apresenta os Requisi
 | RF14 | O sistema deve mostrar avaliações e comentários de outros compradores  | Observação |
 | RF15 | O sistema deve possuir termos e políticas de privacidades claras e acessíveis | Observação|
 
+
 <p style="text-align: center; font-size: 14px;">
 Tabela 1 – Conjunto de requisitos funcionais elicitados.<br>
 Elaboração por <a href="https://github.com/AnnaClarafg">Anna Clara</a>, 
