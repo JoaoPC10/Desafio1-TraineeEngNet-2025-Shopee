@@ -15,14 +15,7 @@ Resumo das Técnicas de Elicitação
 
 Os requisitos foram organizados em duas tabelas: a Tabela 1 apresenta os Requisitos Funcionais, enquanto a Tabela 2 lista os Requisitos Não Funcionais.
 
-Legenda das Tabelas:
-
-- RFx: Requisito Funcional número x;
-- RNFx: Requisito Não Funcional número x;
-
-### Funcionais
-
-Tabela 1: Requisitos Funcionais
+### Requisitos Funcionais
 
 | ID   | Descrição | Técnicas | 
 |------|-----------|----------|
@@ -51,8 +44,6 @@ Elaboração por <a href="https://github.com/AnnaClarafg">Anna Clara</a>,
 <a href="https://github.com/edumoisessilva">Moisés</a>.
 
 ### Requisitos Não Funcionais 
-
-Tabela 2: Requisitos Não Funcionais
 
 | ID    | Descrição | Técnicas | 
 |-------|-----------|----------|
