@@ -37,11 +37,11 @@ Este projeto é desenvolvido como parte do **processo trainee da EngNet**, com f
 **"Como comprar produtos online de forma barata, prática e segura?"**
 
 O Shopee resolve através de:
-- 💰 Marketplace com preços competitivos
-- 🔍 Busca inteligente e filtros avançados
-- 🔒 Pagamento intermediado e seguro
-- 📦 Rastreamento em tempo real
-- ⭐ Sistema robusto de avaliações
+- 💰 Marketplace com preços competitivos;
+- 🔍 Busca inteligente e filtros avançados;
+- 🔒 Pagamento intermediado e seguro;
+- 📦 Rastreamento em tempo real; e
+- ⭐ Sistema robusto de avaliações.
 
 ---
 
