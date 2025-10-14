@@ -1,6 +1,17 @@
 ---
 
-# Desafio de Consultoria de Software
+# 🛍️ Shopee - Engenharia Reversa
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow?style=flat-square)
+![Tipo](https://img.shields.io/badge/Tipo-Engenharia_de_Requisitos-blue?style=flat-square)
+
+**Análise de requisitos do Shopee através de engenharia reversa**
+
+</div>
+
+---
 
 ## Membros da Equipe
 
@@ -9,34 +20,47 @@
     <td align="center"><a href="https://github.com/AnnaClarafg"><img src="https://avatars.githubusercontent.com/u/169397157?v=4" width="200px;" alt=""/><br/><sub><b>Ana Clara</b></sub></a><br/>
     <td align="center"><a href="https://github.com/Dev-Gabriel-Lima"><img src="https://avatars.githubusercontent.com/u/156694363?v=4" width="200px;" alt=""/><br /><sub><b>Gabriel</b></sub></a><br />
     <td align="center"><a href="https://github.com/JoaoPC10"><img src="https://avatars.githubusercontent.com/u/104221138?v=4" width="200px;" alt=""/><br /><sub><b>João Igor</b></sub></a><br />
-    <td align="center"><a href="https://github.com/edumoisessilva"><img src="https://avatars.githubusercontent.com/u/185516590?v=4" width="200px;" alt=""/><br /><sub><b>Moisés</b></sub></a><br />
-    <td align="center"><a href="https://github.com/luisa12ll"><img src="https://avatars.githubusercontent.com/u/194189725?v=4" width="200px;" alt=""/><br /><sub><b>Luisa</b></sub></a><br />
-    </tr>
+        <td align="center"><a href="https://github.com/luisa12ll"><img src="https://avatars.githubusercontent.com/u/194189725?v=4" width="200px;" alt=""/><br /><sub><b>Luisa de Souza</b></sub></a><br />
+    <td align="center"><a href="https://github.com/edumoisessilva"><img src="https://avatars.githubusercontent.com/u/185516590?v=4" width="200px;" alt=""/><br /><sub><b>Moisés</b></sub></a><br />  
 </table>
 
+---
 
-## O que é consultoria de software?
+## 📖 Descrição
 
-É o processo de entender um **problema de negócio** e criar um plano para resolvê-lo usando a tecnologia. Neste desafio, vocês vão se colocar no papel de consultores para analisar e entender a lógica de um aplicativo já existente, como se fossem construir um do zero.
+Este projeto é desenvolvido como parte do **processo trainee da EngNet**, com foco em consultoria de software através de engenharia reversa do aplicativo Shopee. O trabalho aplica técnicas consolidadas de elicitação, priorização, modelagem e prototipação de requisitos para compreender como uma plataforma líder de e-commerce resolve problemas reais e entrega valor aos usuários.
 
-## O Desafio
+---
 
-Cada equipe vai escolher um **aplicativo famoso** e fazer uma **engenharia reversa**. Isso significa que vocês vão analisar o aplicativo de fora para dentro, entendendo por que ele foi construído daquela maneira e quais problemas ele resolve para os usuários.
+## 💡 O Problema
 
-## Como fazer? Guia em 4 Passos
+**"Como comprar produtos online de forma barata, prática e segura?"**
 
-### 1. Entender o Problema
+O Shopee resolve através de:
+- 💰 Marketplace com preços competitivos
+- 🔍 Busca inteligente e filtros avançados
+- 🔒 Pagamento intermediado e seguro
+- 📦 Rastreamento em tempo real
+- ⭐ Sistema robusto de avaliações
 
-Identifiquem a **dor do cliente** que o aplicativo soluciona. Por exemplo, o iFood resolve o problema de pedir comida de forma rápida e fácil.
+---
 
-### 2. Requisitos
+## 🎯 Objetivos
 
-Quais são as **funcionalidades obrigatórias** (ex: pagamento, busca) e as **extras**? Organizem-nas de acordo com a importância para o usuário (por exemplo, usando a metodologia MoSCoW: Must Have, Should Have, Could Have, Won't Have).
+- Elicitar requisitos com **Observação** e **Introspecção**;
+- Priorizar com **MoSCoW** e **Three Level Scale**;
+- Modelar com **Rich Picture**, **Casos de Uso**, **Léxico** e **Especificação Suplementar**;
+- Prototipar interfaces principais;
+- Analisar decisões arquiteturais; e
+- Fluxo de Trabalho: 📱 Exploração → 🔍 Elicitação → ⭐ Priorização → 🎨 Modelagem → 🖼️ Prototipação → 📦 Entrega.
 
-### 3. Modelagem
+---
 
-Traduzam a complexidade do aplicativo em **modelos visuais** (fluxogramas, diagramas UML, mapas de navegação) para entender a estrutura e as conexões entre as partes (ex: diagrama de classes para o banco de dados, fluxograma de *login*).
+## 📦 Lista de Entregáveis - Shopee Engenharia Reversa
+### 🔍 Fase 1: Elicitação de Requisitos
+### ⭐ Fase 2: Priorização de Requisitos
+### 🎨 Fase 3: Modelagem
+### 🖼️ Fase 4: Prototipação
+### 📊 Fase 5: Análise e Documentação
 
-### 4. Entrega
-
-Compilem todo o trabalho em um **único documento**. O documento deve explicar as técnicas usadas e **justificar as decisões** da equipe para a arquitetura e funcionalidades propostas.
+---
