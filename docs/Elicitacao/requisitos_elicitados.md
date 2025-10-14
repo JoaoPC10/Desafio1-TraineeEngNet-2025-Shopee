@@ -55,5 +55,5 @@ Tabela 2: Requisitos Não Funcionais
 
 | Versão | Data | Descrição | Autor(es) 
 |--------|------|-----------|-----------
-| 1.0    | 27/09/2025 | Criação da pagina | [Anna Clara] () [Luisa de Souza]()  [João Igor]()   [Moisés] () [Gabriel] () |
+| 1.0    | 27/09/2025 | Criação da pagina | [Anna Clara](https://github.com/AnnaClarafg), [Luisa de Souza](https://github.com/luisa12ll), [João Igor](https://github.com/JoaoPC10), [Moisés](https://github.com/edumoisessilva), [Gabriel](https://github.com/Dev-Gabriel-Lima) |
 
