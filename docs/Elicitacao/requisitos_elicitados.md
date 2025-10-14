@@ -36,13 +36,8 @@ Os requisitos foram organizados em duas tabelas: a Tabela 1 apresenta os Requisi
 | RF15 | O sistema deve possuir termos e políticas de privacidades claras e acessíveis | Observação|
 
 
-<p style="text-align: center; font-size: 14px;">
 Tabela 1 – Conjunto de requisitos funcionais elicitados.<br>
-Elaboração por <a href="https://github.com/AnnaClarafg">Anna Clara</a>, 
-<a href="https://github.com/Dev-Gabriel-Lima">Gabriel</a>,
-<a href="https://github.com/JoaoPC10">João Igor</a>,
-<a href="https://github.com/luisa12ll">Luisa de Souza</a> e 
-<a href="https://github.com/edumoisessilva">Moisés</a>.
+Elaboração por [Anna Clara](https://github.com/AnnaClarafg), [Gabriel](https://github.com/Dev-Gabriel-Lima), [João Igor](https://github.com/JoaoPC10), [Luisa de Souza](https://github.com/luisa12ll) e [Moisés](https://github.com/edumoisessilva)
 
 
 ### Requisitos Não Funcionais 
@@ -61,15 +56,8 @@ Elaboração por <a href="https://github.com/AnnaClarafg">Anna Clara</a>,
 | RNF10 | O sistema deve validar os dados do cartão ou pagamento em menos de 15 segundos | Introspecção | 
 | RNF11 | O usuário deve conseguir ler descrições detalhadas dos produtos, com texto legível e claro | Observação | 
 
-
-<p style="text-align: center; font-size: 14px;">
 Tabela 2 – Conjunto de requisitos não funcionais elicitados.<br>
-Elaboração por <a href="https://github.com/AnnaClarafg">Anna Clara</a>, 
-<a href="https://github.com/Dev-Gabriel-Lima">Gabriel</a>,
-<a href="https://github.com/JoaoPC10">João Igor</a>,
-<a href="https://github.com/luisa12ll">Luisa de Souza</a> e 
-<a href="https://github.com/edumoisessilva">Moisés</a>.
-
+Elaboração por [Anna Clara](https://github.com/AnnaClarafg), [Gabriel](https://github.com/Dev-Gabriel-Lima), [João Igor](https://github.com/JoaoPC10), [Luisa de Souza](https://github.com/luisa12ll) e [Moisés](https://github.com/edumoisessilva)
 
 
 | Versão | Data | Descrição | Autor(es) 
