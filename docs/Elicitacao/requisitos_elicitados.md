@@ -30,18 +30,25 @@ Tabela 1: Requisitos Funcionais
 | RF02 | O usuário deve poder filtrar produtos por preço, avaliação e entrega     | Instrospecção| 
 | RF03 | O sistema deve permitir a pesquisa de produtos por nome ou categoria     | Introspecção| 
 | RF04 | O sistema deve permitir ao usuário caadastrar múltiplos métodos de pagamento  | Observação|
-| RF05 | O usuário deve receber confirmação imediata da compra em até 10 segundos.    |Observação|
-| RF06 | O usuário deve finalizar a compra em menos de 5 minutos | Introspecção|
+| RF05 | O sistema deve permitir que o usuário recupere sua senha de acesso através de um link enviado para seu e-mail cadastrado.  |Observação|
+| RF06 | O sistema deve exibir um histórico de todos os pedidos anteriores do usuário em sua área de perfil. | Observação|
 | RF07 | O sistema deve permitir ao usuário avaliar produtos e vendedores  | Introspecção| 
 | RF08 | O sistema deve mostrar resultados relevantes em uma lista clara e objetiva | Observação| 
 | RF09 | O sistema deve permitir a adição de produtos ao carrinho.  | Introspecção|
-| RF10 | O sistema deve validar os dados do cartão ou pagamento em menos de 15 segundos| Introspecção| 
+| RF10 |  O sistema deve permitir que o usuário adicione produtos a uma "Lista de Desejos" para consulta futura. | Observação| 
 | RF11 | O sistema deve permitir acompanhar o status do pedido    | Introspecção|
 | RF12 | O sistema deve sugerir produtos com base em buscas anteriores   | Observação|
-| RF13 | O usuário deve conseguir ler descrições detalhadas dos produtos, com texto legível e claro | Observação|
+| RF13 | O sistema deve permitir que o usuário cadastre e gerencie múltiplos endereços de entrega em sua conta. | Observação|
 | RF14 | O sistema deve mostrar avaliações e comentários de outros compradores  | Observação |
 | RF15 | O sistema deve possuir termos e políticas de privacidades claras e acessíveis | Observação|
 
+<p style="text-align: center; font-size: 14px;">
+Tabela 1 – Conjunto de requisitos funcionais elicitados.<br>
+Elaboração por <a href="https://github.com/AnnaClarafg">Anna Clara</a>, 
+<a href="https://github.com/Dev-Gabriel-Lima">Gabriel</a>,
+<a href="https://github.com/JoaoPC10">João Igor</a>,
+<a href="https://github.com/luisa12ll">Luisa de Souza</a> e 
+<a href="https://github.com/edumoisessilva">Moisés</a>.
 
 ### Requisitos Não Funcionais 
 
@@ -56,11 +63,21 @@ Tabela 2: Requisitos Não Funcionais
 | RNF05 | O sistema deve manter a integridade e segurança dos dados do usuários conforme a LGPD | Intospecção |
 | RNF06 | O tempo de carregamento das páginas não deve ultrapassas 5 segundos | Observação |
 | RNF07 | O sistema deve suportar múltiplos idiomas | Introspecção |
+| RNF08 | O usuário deve receber confirmação imediata da compra em até 10 segundos. | Observação | 
+| RNF09 | O usuário deve finalizar a compra em menos de 5 minutos | Introspecção | 
+| RNF10 | O sistema deve validar os dados do cartão ou pagamento em menos de 15 segundos | Introspecção | 
+| RNF11 | O usuário deve conseguir ler descrições detalhadas dos produtos, com texto legível e claro | Observação | 
 
-
+<p style="text-align: center; font-size: 14px;">
+Tabela 2 – Conjunto de requisitos não funcionais elicitados.<br>
+Elaboração por <a href="https://github.com/AnnaClarafg">Anna Clara</a>, 
+<a href="https://github.com/Dev-Gabriel-Lima">Gabriel</a>,
+<a href="https://github.com/JoaoPC10">João Igor</a>,
+<a href="https://github.com/luisa12ll">Luisa de Souza</a> e 
+<a href="https://github.com/edumoisessilva">Moisés</a>.
 
 
 | Versão | Data | Descrição | Autor(es) 
 |--------|------|-----------|-----------
-| 1.0    | 27/09/2025 | Criação da pagina | [Anna Clara](https://github.com/AnnaClarafg), [Luisa de Souza](https://github.com/luisa12ll), [João Igor](https://github.com/JoaoPC10), [Moisés](https://github.com/edumoisessilva), [Gabriel](https://github.com/Dev-Gabriel-Lima) |
+| 1.0    | 27/09/2025 | Criação da pagina | [Anna Clara](https://github.com/AnnaClarafg), [Gabriel](https://github.com/Dev-Gabriel-Lima), [João Igor](https://github.com/JoaoPC10), [Luisa de Souza](https://github.com/luisa12ll) e [Moisés](https://github.com/edumoisessilva) |
 
