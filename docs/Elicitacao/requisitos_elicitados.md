@@ -2,7 +2,14 @@
 
 ## Introdução
 
-Esta página consolida os requisitos identificados para o projeto, eliciados por meio das técnicas Análise de documento,Entrevista e Brainstorming. O processo de levantamento priorizou a compreensão das necessidades dos usuários e a conformidade com normas técnicas, garantindo clareza e alinhamento aos objetivos propostos.
+Esta página apresenta os requisitos que vão dar forma ao nosso projeto, levantados a partir das técnicas de **Observação** e **Introspecção.** Durante esse processo, nossa prioridade foi identificar as funcionalidades que realmente não podem faltar e as características de qualidade que o sistema precisa ter. O objetivo é que este documento sirva como um guia claro para as equipes de desenvolvimento e teste, garantindo que o trabalho esteja sempre alinhado às necessidades dos usuários e aos padrões do mercado.
+
+Resumo das Técnicas de Elicitação
+
+- **Observação:** Técnica em que o analista observa o usuário final interagindo com um sistema similar ou executando as tarefas que o novo sistema irá suportar. Ajuda a identificar necessidades implícitas e problemas práticos que o usuário pode não verbalizar.
+
+- **Introspecção:** Técnica subjetiva onde o próprio analista, com base em sua experiência, imagina-se como um usuário do sistema para definir os requisitos. Embora seja útil para gerar uma base inicial de funcionalidades, deve ser validada posteriormente, pois pode introduzir vieses pessoais.
+
 
 ## Requisitos
 
