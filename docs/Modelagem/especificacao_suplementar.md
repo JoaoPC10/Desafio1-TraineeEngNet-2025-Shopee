@@ -51,7 +51,7 @@ A seguir, temos a Tabela 1, referente à Especificação Suplementar, na qual a 
 |[RQ55](https://requisitos-de-software.github.io/2025.2-Grupo05/Elicita%C3%A7%C3%A3o/Requisitos-Elicitados/)| Performance (P) | O aplicativo deve ter a possibilidade de encontrar qualquer funcionalidade desejada em até 45 segundos. | O sistema deve oferecer uma navegação intuitiva e mecanismos de busca eficientes que permitam localizar rapidamente qualquer funcionalidade. | Facilitar o uso e reduzir o tempo de aprendizado, melhorando a experiência do usuário. | Média | Não | [Yan Matheus](https://github.com/Yanmatheus0812) |
 
 Tabela 1 – Requisitos Não Funcionais classificados de acordo com o modelo FURPS+. <br>
-Elaboração por [Anna Clara](https://github.com/AnnaClarafg), [Luisa de Souza](https://github.com/luisa12ll) e [Moisés](https://github.com/edumoisessilva)
+Elaboração por [Anna Clara](https://github.com/AnnaClarafg) e [Luisa de Souza](https://github.com/luisa12ll)
 
 
 ## Referência bibliográfica
