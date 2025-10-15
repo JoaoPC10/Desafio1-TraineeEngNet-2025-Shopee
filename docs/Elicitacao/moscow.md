@@ -13,16 +13,56 @@ A técnica de priorização MoSCoW foi utilizada para identificar e classificar 
 
 A priorização foi realizada por meio de uma entrevista com um usuário do sistema avaliado. Durante a entrevista, cada requisito identificado foi discutido e classificado em uma das categorias acima. A decisão foi baseada em critérios como impacto no usuário, viabilidade técnica e alinhamento com os objetivos do projeto.
 
-## Envolvidos
+## Participantes
 
-Os responsáveis pela realização da priorização MoSCoW foram: [Anna Clara](https://github.com/AnnaClarafg), [Luisa de Souza](https://github.com/luisa12ll). <br>
-O cliente entrevistado para a realização da priorização foi: Luís Henrique.
+A seguir temos a tabela 1, onde indica todos os participantes da aplicação da técnica, o horário e local da aplicação da técnica. 
 
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Papel</th>
+        <th>Nome</th>
+        <th>Data</th>
+        <th>Hora</th>
+        <th>Local</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Mediador</td>
+        <td><a href="https://github.com/AnnaClarafg">Ana Clara</a></td>
+        <td>14/10/2025</td>
+        <td>21:10</td>
+        <td> Microsoft Teams </td>
+         </tr>
+      <tr>
+      <tr>
+        <td>Mediador</td>
+        <td><a href="https://github.com/luisa12ll">Luisa de Souza</a></td>
+        <td>14/10/2025</td>
+        <td>21:10</td>
+        <td> Microsoft Teams </td>
+      </tr>
+       <tr>
+        <td>Usuário</td>
+        <td>Luis Henrique Pereira</td>
+        <td>14/10/2025</td>
+        <td>21:10</td>
+        <td> Microsoft Teams </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+Tabela 1: Participantes MoSCoW
+
+Autor: [Luisa de Souza](https://github.com/luisa12ll)
 
 ## Resultados
 
 ### Must Have (Deve Ter)
-**Tabela 1 - Requisitos classificados como Must Have** 
+**Tabela 2 - Requisitos classificados como Must Have** 
 
 | Código | Nome do Requisito                  | Descrição                                                                 |
 |--------|------------------------------------|---------------------------------------------------------------------------|
@@ -38,9 +78,11 @@ O cliente entrevistado para a realização da priorização foi: Luís Henrique.
 | RNF10   | Validação do pagamento|	O sistema deve validar os dados do cartão ou pagamento em menos de 15 segundos. |
 | RNF11  | Clareza sobre os detalhes de produtos | O usuário deve conseguir ler descrições detalhadas dos produtos, com texto legível e claro. |
 
+Autor: [Anna Clara](https://github.com/AnnaClarafg) e [Luisa de Souza](https://github.com/luisa12ll)
+
 
 ### Should Have (Deveria Ter)
-**Tabela 2 - Requisitos classificados como Should Have**  
+**Tabela 3 - Requisitos classificados como Should Have**  
 
 | Código | Nome do Requisito                  | Descrição                                                                 |
 |--------|------------------------------------|---------------------------------------------------------------------------|
@@ -53,9 +95,11 @@ O cliente entrevistado para a realização da priorização foi: Luís Henrique.
 | RNF07  | Suporte para idiomas | O sistema deve suportar múltiplos idiomas.  |
 | RNF09  | Finalização da compra | O usuário deve finalizar a compra em menos de 5 minutos. |
 
+Autor: [Anna Clara](https://github.com/AnnaClarafg) e [Luisa de Souza](https://github.com/luisa12ll)
+
 
 ### Could Have (Poderia Ter)
-**Tabela 3 - Requisitos classificados como Could Have**  
+**Tabela 4 - Requisitos classificados como Could Have**  
 
 | Código | Nome do Requisito                  | Descrição                                                                 |
 |--------|------------------------------------|---------------------------------------------------------------------------|
@@ -67,6 +111,7 @@ O cliente entrevistado para a realização da priorização foi: Luís Henrique.
 | RNF01   | Tempo para busca de produtos | O usuário deve conseguir buscar produtos em menos de 5 segundos após digitar. |
 | RNF06   | Tempo de carregamento de páginas | O tempo de carregamento das páginas não deve ultrapassas 5 segundos.  |
 
+Autor: [Anna Clara](https://github.com/AnnaClarafg) e [Luisa de Souza](https://github.com/luisa12ll)
 
 
 ## Conclusão
@@ -82,7 +127,7 @@ A priorização MoSCoW foi essencial para alinhar as expectativas do cliente com
 
 | Versão | Data | Descrição | Autor(es) | Revisor |
 |--------|------|-----------|-----------|---------|
-| 1.0    | 15/10/2025 | Criação do documento do Moscow | [Anna Clara](https://github.com/AnnaClarafg), [Luisa de Souza](https://github.com/luisa12ll) |  [Moisés](https://github.com/edumoisessilva)|
+| 1.0    | 15/10/2025 | Criação do documento do Moscow | [Anna Clara](https://github.com/AnnaClarafg) e [Luisa de Souza](https://github.com/luisa12ll) |  [Moisés](https://github.com/edumoisessilva)|
 
 
 
