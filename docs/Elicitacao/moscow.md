@@ -15,8 +15,8 @@ A priorização foi realizada por meio de uma entrevista com um usuário do sist
 
 ## Envolvidos
 
-Os responsáveis pela realização da priorização MoSCoW foram:
-
+Os responsáveis pela realização da priorização MoSCoW foram: [Anna Clara](https://github.com/AnnaClarafg), [Luisa de Souza](https://github.com/luisa12ll) 
+O cliente entrevistado para a realização da priorização foi: Luís Henrique.
 
 
 ## Resultados
@@ -72,6 +72,18 @@ Os responsáveis pela realização da priorização MoSCoW foram:
 ## Conclusão
 
 A priorização MoSCoW foi essencial para alinhar as expectativas do cliente com as possibilidades do projeto, garantindo que os esforços sejam direcionados para os requisitos mais importantes. Essa abordagem também permite maior flexibilidade no planejamento, possibilitando ajustes conforme o desenvolvimento avança.
+
+## Referência bibliográfica
+
+<a id="RP1" href="#tec1">1.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 13. UnB, 2025. Disponível em: <[https://aprender3.unb.br/pluginfile.php/3210637/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf](https://aprender3.unb.br/pluginfile.php/3210637/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf)>. Acesso em: 14 de outubro de 2025. p. 27–30.
+
+
+## Histórico de versão
+
+| Versão | Data | Descrição | Autor(es) | Revisor |
+|--------|------|-----------|-----------|---------|
+| 1.0    | 15/10/2025 | Criação do documento do Moscow | [Anna Clara](https://github.com/AnnaClarafg), [Luisa de Souza](https://github.com/luisa12ll) |  [Moisés](https://github.com/edumoisessilva)|
+
 
 
 
