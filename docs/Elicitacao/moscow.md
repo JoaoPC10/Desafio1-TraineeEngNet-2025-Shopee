@@ -66,17 +66,17 @@ Autor: [Luisa de Souza](https://github.com/luisa12ll)
 
 | Código | Nome do Requisito                  | Descrição                                                                 |
 |--------|------------------------------------|---------------------------------------------------------------------------|
-| RF01   | Cadastro de usuário      | O sistema deve permitir o cadasto de usuário (vendedores e compradores). |
-| RF05  |  Recuperação de senha através do email | O sistema deve permitir que o usuário recupere sua senha de acesso através de um link enviado para seu e-mail cadastrado. |
-| RF08   | Mostragem de resultados | O sistema deve mostrar resultados relevantes em uma lista clara e objetiva.   |
-| RF11   | Acompanhamento do pedido  | O sistema deve permitir acompanhar o status do pedido.  |
-| RF15   | Termos e políticas de privacidade  | O sistema deve possuir termos e políticas de privacidades claras e acessíveis  |
-| RNF02   | Acessibilidade    | O sistema deve ser acessível a pessoas com deficiência visual conforme as normas de acessibilidade. |
-| RNF04  | Responsividade | O sistema deve funcionar corretamente em desktops e dispositivos móveis. |
-| RNF05   | Integridade e segurança de dados | O sistema deve manter a integridade e segurança dos dados do usuários conforme a LGPD                    |
-| RNF08   | Confirmação da compra | O usuário deve receber confirmação imediata da compra em até 10 segundos.  |
-| RNF10   | Validação do pagamento|	O sistema deve validar os dados do cartão ou pagamento em menos de 15 segundos. |
-| RNF11  | Clareza sobre os detalhes de produtos | O usuário deve conseguir ler descrições detalhadas dos produtos, com texto legível e claro. |
+| [RF01](https://joaopc10.github.io/Desafio1-TraineeEngNet-2025-Shopee/Elicitacao/requisitos_elicitados/#requisitos-funcionais)   | Cadastro de usuário      | O sistema deve permitir o cadasto de usuário (vendedores e compradores). |
+| [RF05](https://joaopc10.github.io/Desafio1-TraineeEngNet-2025-Shopee/Elicitacao/requisitos_elicitados/#requisitos-funcionais)  |  Recuperação de senha através do email | O sistema deve permitir que o usuário recupere sua senha de acesso através de um link enviado para seu e-mail cadastrado. |
+| [RF08](https://joaopc10.github.io/Desafio1-TraineeEngNet-2025-Shopee/Elicitacao/requisitos_elicitados/#requisitos-funcionais)   | Mostragem de resultados | O sistema deve mostrar resultados relevantes em uma lista clara e objetiva.   |
+| [RF11](https://joaopc10.github.io/Desafio1-TraineeEngNet-2025-Shopee/Elicitacao/requisitos_elicitados/#requisitos-funcionais)  | Acompanhamento do pedido  | O sistema deve permitir acompanhar o status do pedido.  |
+| [RF15](https://joaopc10.github.io/Desafio1-TraineeEngNet-2025-Shopee/Elicitacao/requisitos_elicitados/#requisitos-funcionais)   | Termos e políticas de privacidade  | O sistema deve possuir termos e políticas de privacidades claras e acessíveis  |
+| [RNF02](https://joaopc10.github.io/Desafio1-TraineeEngNet-2025-Shopee/Elicitacao/requisitos_elicitados/#requisitos-nao-funcionais)   | Acessibilidade    | O sistema deve ser acessível a pessoas com deficiência visual conforme as normas de acessibilidade. |
+| [RNF04](https://joaopc10.github.io/Desafio1-TraineeEngNet-2025-Shopee/Elicitacao/requisitos_elicitados/#requisitos-nao-funcionais)  | Responsividade | O sistema deve funcionar corretamente em desktops e dispositivos móveis. |
+| [RNF05](https://joaopc10.github.io/Desafio1-TraineeEngNet-2025-Shopee/Elicitacao/requisitos_elicitados/#requisitos-nao-funcionais)   | Integridade e segurança de dados | O sistema deve manter a integridade e segurança dos dados do usuários conforme a LGPD                    |
+| [RNF08](https://joaopc10.github.io/Desafio1-TraineeEngNet-2025-Shopee/Elicitacao/requisitos_elicitados/#requisitos-nao-funcionais)   | Confirmação da compra | O usuário deve receber confirmação imediata da compra em até 10 segundos.  |
+| [RNF10](https://joaopc10.github.io/Desafio1-TraineeEngNet-2025-Shopee/Elicitacao/requisitos_elicitados/#requisitos-nao-funcionais)   | Validação do pagamento|	O sistema deve validar os dados do cartão ou pagamento em menos de 15 segundos. |
+| [RNF11](https://joaopc10.github.io/Desafio1-TraineeEngNet-2025-Shopee/Elicitacao/requisitos_elicitados/#requisitos-nao-funcionais)  | Clareza sobre os detalhes de produtos | O usuário deve conseguir ler descrições detalhadas dos produtos, com texto legível e claro. |
 
 Autor: [Anna Clara](https://github.com/AnnaClarafg) e [Luisa de Souza](https://github.com/luisa12ll)
 
@@ -86,14 +86,14 @@ Autor: [Anna Clara](https://github.com/AnnaClarafg) e [Luisa de Souza](https://g
 
 | Código | Nome do Requisito                  | Descrição                                                                 |
 |--------|------------------------------------|---------------------------------------------------------------------------|
-| RF03   |  Pesquisa de produtos  | O sistema deve permitir a pesquisa de produtos por nome ou categoria. |
-| RF04   | Métodos de pagamento | O sistema deve permitir ao usuário cadastrar múltiplos métodos de pagamento. |
-| RF07  | Avaliação de produtos e vendedores | 	O sistema deve permitir ao usuário avaliar produtos e vendedores.  |
-| RF09  | Carrinho de compras | O sistema deve permitir a adição de produtos ao carrinho.  |
-| RF14  | Avaliações e comentários de terceiros | O sistema deve mostrar avaliações e comentários de outros compradores. |
-| RNF03  | Capacidade de acessos | O sistema deve suportar um grande número de usuários simultâneos. |
-| RNF07  | Suporte para idiomas | O sistema deve suportar múltiplos idiomas.  |
-| RNF09  | Finalização da compra | O usuário deve finalizar a compra em menos de 5 minutos. |
+| [RF03](https://joaopc10.github.io/Desafio1-TraineeEngNet-2025-Shopee/Elicitacao/requisitos_elicitados/#requisitos-funcionais)   |  Pesquisa de produtos  | O sistema deve permitir a pesquisa de produtos por nome ou categoria. |
+| [RF04](https://joaopc10.github.io/Desafio1-TraineeEngNet-2025-Shopee/Elicitacao/requisitos_elicitados/#requisitos-funcionais)   | Métodos de pagamento | O sistema deve permitir ao usuário cadastrar múltiplos métodos de pagamento. |
+| [RF07](https://joaopc10.github.io/Desafio1-TraineeEngNet-2025-Shopee/Elicitacao/requisitos_elicitados/#requisitos-funcionais)  | Avaliação de produtos e vendedores | 	O sistema deve permitir ao usuário avaliar produtos e vendedores.  |
+| [RF09](https://joaopc10.github.io/Desafio1-TraineeEngNet-2025-Shopee/Elicitacao/requisitos_elicitados/#requisitos-funcionais)  | Carrinho de compras | O sistema deve permitir a adição de produtos ao carrinho.  |
+| [RF14](https://joaopc10.github.io/Desafio1-TraineeEngNet-2025-Shopee/Elicitacao/requisitos_elicitados/#requisitos-funcionais)  | Avaliações e comentários de terceiros | O sistema deve mostrar avaliações e comentários de outros compradores. |
+| [RNF03](https://joaopc10.github.io/Desafio1-TraineeEngNet-2025-Shopee/Elicitacao/requisitos_elicitados/#requisitos-nao-funcionais) | Capacidade de acessos | O sistema deve suportar um grande número de usuários simultâneos. |
+| [RNF07](https://joaopc10.github.io/Desafio1-TraineeEngNet-2025-Shopee/Elicitacao/requisitos_elicitados/#requisitos-nao-funcionais)  | Suporte para idiomas | O sistema deve suportar múltiplos idiomas.  |
+| [RNF09](https://joaopc10.github.io/Desafio1-TraineeEngNet-2025-Shopee/Elicitacao/requisitos_elicitados/#requisitos-nao-funcionais)  | Finalização da compra | O usuário deve finalizar a compra em menos de 5 minutos. |
 
 Autor: [Anna Clara](https://github.com/AnnaClarafg) e [Luisa de Souza](https://github.com/luisa12ll)
 
@@ -103,13 +103,13 @@ Autor: [Anna Clara](https://github.com/AnnaClarafg) e [Luisa de Souza](https://g
 
 | Código | Nome do Requisito                  | Descrição                                                                 |
 |--------|------------------------------------|---------------------------------------------------------------------------|
-| RF02 | Filtragem de produtos  | O usuário deve poder filtrar produtos por preço, avaliação e entrega. |
-| RF06  | Histórico | O sistema deve exibir um histórico de todos os pedidos anteriores do usuário em sua área de perfil. |
-| RF10   | Lista de desejos | O sistema deve permitir que o usuário adicione produtos a uma "Lista de Desejos" para consulta futura.  |
-| RF12   | Sugestão baseada em buscas | O sistema deve sugerir produtos com base em buscas anteriores.  |
-| RF13   | Cadastro de endereço | O sistema deve permitir que o usuário cadastre e gerencie múltiplos endereços de entrega em sua conta.  |
-| RNF01   | Tempo para busca de produtos | O usuário deve conseguir buscar produtos em menos de 5 segundos após digitar. |
-| RNF06   | Tempo de carregamento de páginas | O tempo de carregamento das páginas não deve ultrapassas 5 segundos.  |
+| [RF02](https://joaopc10.github.io/Desafio1-TraineeEngNet-2025-Shopee/Elicitacao/requisitos_elicitados/#requisitos-funcionais) | Filtragem de produtos  | O usuário deve poder filtrar produtos por preço, avaliação e entrega. |
+| [RF06](https://joaopc10.github.io/Desafio1-TraineeEngNet-2025-Shopee/Elicitacao/requisitos_elicitados/#requisitos-funcionais)  | Histórico | O sistema deve exibir um histórico de todos os pedidos anteriores do usuário em sua área de perfil. |
+| [RF10](https://joaopc10.github.io/Desafio1-TraineeEngNet-2025-Shopee/Elicitacao/requisitos_elicitados/#requisitos-funcionais)   | Lista de desejos | O sistema deve permitir que o usuário adicione produtos a uma "Lista de Desejos" para consulta futura.  |
+| [RF12](https://joaopc10.github.io/Desafio1-TraineeEngNet-2025-Shopee/Elicitacao/requisitos_elicitados/#requisitos-funcionais)   | Sugestão baseada em buscas | O sistema deve sugerir produtos com base em buscas anteriores.  |
+| [RF13](https://joaopc10.github.io/Desafio1-TraineeEngNet-2025-Shopee/Elicitacao/requisitos_elicitados/#requisitos-funcionais)   | Cadastro de endereço | O sistema deve permitir que o usuário cadastre e gerencie múltiplos endereços de entrega em sua conta.  |
+| [RNF01](https://joaopc10.github.io/Desafio1-TraineeEngNet-2025-Shopee/Elicitacao/requisitos_elicitados/#requisitos-nao-funcionais)   | Tempo para busca de produtos | O usuário deve conseguir buscar produtos em menos de 5 segundos após digitar. |
+| [RNF06](https://joaopc10.github.io/Desafio1-TraineeEngNet-2025-Shopee/Elicitacao/requisitos_elicitados/#requisitos-nao-funcionais)   | Tempo de carregamento de páginas | O tempo de carregamento das páginas não deve ultrapassas 5 segundos.  |
 
 Autor: [Anna Clara](https://github.com/AnnaClarafg) e [Luisa de Souza](https://github.com/luisa12ll)
 
