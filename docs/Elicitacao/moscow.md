@@ -17,8 +17,7 @@ A priorização foi realizada por meio de uma entrevista com um usuário do sist
 
 Os responsáveis pela realização da priorização MoSCoW foram:
 
-- **[João Sapiência](https://github.com/JoaoSapiencia)**  
-- **[João Felipe](https://github.com/JoaoFelipe)**
+
 
 ## Resultados
 
@@ -27,84 +26,52 @@ Os responsáveis pela realização da priorização MoSCoW foram:
 
 | Código | Nome do Requisito                  | Descrição                                                                 |
 |--------|------------------------------------|---------------------------------------------------------------------------|
-| RF20   | Acompanhamento Real (Real)        | O sistema deve enviar uma notificação quando está chegando perto da data de entrega de uma atividade. |
-| RF49   | Sistema Tutor Inteligente (STI)   | O assistente virtual deve fornecer orientação pedagógica individualizada, baseada na TAS e no desejo didático dos docentes. |
-| RF45   | Projeto de Monitoria Estudantil (PMon) | Deve fornecer chat síncrono para interação à distância.                   |
-| RF26   | Banco de Questões (BDQ)           | Deve promover a interação dos alunos com as questões, avaliando seu conhecimento informativo e formativo. |
-| RF50   | Sistema Tutor Inteligente (STI)   | O assistente virtual deve analisar a situação cognitiva de cada aluno e atuar como agente colaborativo na aprendizagem. |
-| RF35   | Cooperação (Integra)              | A integração deve reduzir o esforço de professores e monitores, centralizando informações sobre atividades e desempenho. |
-| RF32   | Conteúdo (SRC)                    | Os materiais devem estar postados em tópicos de conteúdos separados na disciplina. |
-| RF33   | Conteúdo (SRC)                    | O banco de questões deve estar separado por conteúdo.                    |
-| RF22   | Apoio à Decisão (MAD)             | O sistema deve fornecer dados e informações analíticas em diferentes níveis (individual, turma, entre turmas). |
-| RF24   | Apoio à Decisão (MAD)             | Deve mostrar como o desempenho está sendo calculado.                     |
-| RF10   | Acompanhamento Real (Real)        | A interface deve exibir como está a porcentagem de erros das atividades de cada conteúdo. |
+| RF01   | Cadastro de usuário      | O sistema deve permitir o cadasto de usuário (vendedores e compradores). |
+| RF05  |  Recuperação de senha através do email | O sistema deve permitir que o usuário recupere sua senha de acesso através de um link enviado para seu e-mail cadastrado. |
+| RF08   | Mostragem de resultados | O sistema deve mostrar resultados relevantes em uma lista clara e objetiva.   |
+| RF11   | Acompanhamento do pedido  | O sistema deve permitir acompanhar o status do pedido.  |
+| RF15   | Termos e políticas de privacidade  | O sistema deve possuir termos e políticas de privacidades claras e acessíveis  |
+| RNF02   | Acessibilidade    | O sistema deve ser acessível a pessoas com deficiência visual conforme as normas de acessibilidade. |
+| RNF04  | Responsividade | O sistema deve funcionar corretamente em desktops e dispositivos móveis. |
+| RNF05   | Integridade e segurança de dados | O sistema deve manter a integridade e segurança dos dados do usuários conforme a LGPD                    |
+| RNF08   | Confirmação da compra | O usuário deve receber confirmação imediata da compra em até 10 segundos.  |
+| RNF10   | Validação do pagamento|	O sistema deve validar os dados do cartão ou pagamento em menos de 15 segundos. |
+| RNF11  | Clareza sobre os detalhes de produtos | O usuário deve conseguir ler descrições detalhadas dos produtos, com texto legível e claro. |
 
-<div align="center"><strong>Autoria de <a href="https://github.com/JoaoSapiencia">João Sapiência</a></strong></div>
 
 ### Should Have (Deveria Ter)
 **Tabela 2 - Requisitos classificados como Should Have**  
 
 | Código | Nome do Requisito                  | Descrição                                                                 |
 |--------|------------------------------------|---------------------------------------------------------------------------|
-| RF51   | Sistema Tutor Inteligente (STI)   | O sistema deve apresentar ao professor qual aluno sabe sobre o conteúdo. |
-| RF31   | Conteúdo (SRC)                    | O sistema deve direcionar cada aluno a materiais adequados à sua situação cognitiva e preferências. |
-| RF44   | Projeto de Monitoria Estudantil (PMon) | O sistema deve facilitar a interação entre monitores, professores e alunos. |
-| RF38   | Interface Animado (MInA)          | A inferência deve envolver Lógica Fuzzy, permitindo avaliações graduais (ex.: "bom", "razoável", "fraco"). |
-| RF42   | Interface Animado (MInA)          | O assistente virtual deve notificar qual conteúdo o aluno está tendo mais dificuldade. |
-| RF15   | Acompanhamento Real (Real)        | O sistema deve enviar notificações para lembrar o usuário de revisar conteúdos passados. |
-| RF08   | Acompanhamento Real (Real)        | A interface deve exibir um progresso em porcentagem do andamento da disciplina. |
-| RF17   | Acompanhamento Real (Real)        | O sistema deve enviar lembretes para o usuário sobre datas de entregas de atividades. |
+| RF03   |  Pesquisa de produtos  | O sistema deve permitir a pesquisa de produtos por nome ou categoria. |
+| RF04   | Métodos de pagamento | O sistema deve permitir ao usuário cadastrar múltiplos métodos de pagamento. |
+| RF07  | Avaliação de produtos e vendedores | 	O sistema deve permitir ao usuário avaliar produtos e vendedores.  |
+| RF09  | Carrinho de compras | O sistema deve permitir a adição de produtos ao carrinho.  |
+| RF14  | Avaliações e comentários de terceiros | O sistema deve mostrar avaliações e comentários de outros compradores. |
+| RNF03  | Capacidade de acessos | O sistema deve suportar um grande número de usuários simultâneos. |
+| RNF07  | Suporte para idiomas | O sistema deve suportar múltiplos idiomas.  |
+| RNF09  | Finalização da compra | O usuário deve finalizar a compra em menos de 5 minutos. |
 
-<div align="center"><strong>Autoria de <a href="https://github.com/JoaoSapiencia">João Sapiência</a></strong></div>
 
 ### Could Have (Poderia Ter)
 **Tabela 3 - Requisitos classificados como Could Have**  
 
 | Código | Nome do Requisito                  | Descrição                                                                 |
 |--------|------------------------------------|---------------------------------------------------------------------------|
-| RF34   | Cooperação (Integra)              | O sistema deve integrar outros softwares educacionais (como AVAs).       |
-| RF29   | Banco de Questões (BDQ)           | O sistema deve conter um banco de questões geradas pelo professor.       |
-| RF37   | Interface Animado (MInA)          | A integração deve visar a compreensão da situação de aprendizagem.       |
-| RF48   | Projeto de Monitoria Estudantil (PMon) | Deve disponibilizar informações sobre horários e locais de monitoria.    |
+| RF02 | Filtragem de produtos  | O usuário deve poder filtrar produtos por preço, avaliação e entrega. |
+| RF06  | Histórico | O sistema deve exibir um histórico de todos os pedidos anteriores do usuário em sua área de perfil. |
+| RF10   | Lista de desejos | O sistema deve permitir que o usuário adicione produtos a uma "Lista de Desejos" para consulta futura.  |
+| RF12   | Sugestão baseada em buscas | O sistema deve sugerir produtos com base em buscas anteriores.  |
+| RF13   | Cadastro de endereço | O sistema deve permitir que o usuário cadastre e gerencie múltiplos endereços de entrega em sua conta.  |
+| RNF01   | Tempo para busca de produtos | O usuário deve conseguir buscar produtos em menos de 5 segundos após digitar. |
+| RNF06   | Tempo de carregamento de páginas | O tempo de carregamento das páginas não deve ultrapassas 5 segundos.  |
 
-<div align="center"><strong>Autoria de <a href="https://github.com/JoaoSapiencia">João Sapiência</a></strong></div>
 
-### Won't Have (Não Terá)
-**Tabela 4 - Requisitos classificados como Won't Have**  
-
-| Código | Nome do Requisito                  | Descrição                                                                 |
-|--------|------------------------------------|---------------------------------------------------------------------------|
-| RF36   | Interface Animado (MInA)          | O sistema deve criar um personagem antropomórfico para interação direta com o estudante. |
-| RF14   | Acompanhamento Real (Real)        | O usuário deve marcar os tópicos da disciplina no qual ele sente mais facilidade. |
-| RF46   | Projeto de Monitoria Estudantil (PMon) | O assistente virtual deve acompanhar interações.                         |
-
-<div align="center"><strong>Autoria de <a href="https://github.com/JoaoSapiencia">João Sapiência</a></strong></div>
-
-## Gravação
-A Tabela 5 apresenta as informações do usuário que participou da etapa de priorização, incluindo seu nome e dados sobre a gravação, como data, hora e local.
-
-<div align="center"><strong>Tabela 5: Usuário Real e Informações da Gravação</strong></div>
-
-| Nome | Data | Hora | Local|
-|-------------------------|-----------------|-----------------|------------------|
-| Isaque Camargo | 30/09/2025 | 16:00 | Faculdade de Ciências e Tecnologias em Engenharia – FCTE/UnB |
-<div align="center"><strong>Autoria de <a href="https://github.com/JoaoSapiencia">João Sapiência</a></strong></div>
-
-Além disso, a gravação da elicitação conferida em: [https://youtu.be/N-bMKNZjJzk](https://youtu.be/N-bMKNZjJzk).
 
 ## Conclusão
 
 A priorização MoSCoW foi essencial para alinhar as expectativas do cliente com as possibilidades do projeto, garantindo que os esforços sejam direcionados para os requisitos mais importantes. Essa abordagem também permite maior flexibilidade no planejamento, possibilitando ajustes conforme o desenvolvimento avança.
 
-## Referência Bibliográficas
 
-Serrano, Milene; Serrano, Maurício. *Requisitos (Aula 07): Elicitação, Modelagem e Análise*. UnB Gama, Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 2 de maio de 2025.  
-Agile Business Consortium. *MoSCoW Prioritisation*. Disponível em: <https://www.agilebusiness.org/dsdm-project-framework/moscow-prioririsation.html>. Acesso em: 2 de maio de 2025.  
-Visual Paradigm. *Prioritizing Requirements with MoSCoW Method: A Guide for Agile Projects*. Disponível em: <https://guides.visual-paradigm.com/prioritizing-requirements-with-moscow-method-a-guide-for-agile-projects/>. Acesso em: 2 de maio de 2025.
-
-## Histórico de Versões
-
-| Versão | Data       | Descrição                                   | Autor(es)                                                   | Revisor       |
-|--------|------------|---------------------------------------------|------------------------------------------------------------|---------------|
-| 1.0    | 30/09/2025 | Realização da priorização MoSCoW por meio de entrevista com usuário | [João Sapiência](https://github.com/JoaoSapiencia), [João Felipe](https://github.com/JoaoFelipe) | [Arthur Henrique](https://github.com/arthurhvieira1)             |
 
