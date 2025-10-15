@@ -68,4 +68,4 @@ Elaboração por [Anna Clara](https://github.com/AnnaClarafg) e [Luisa de Souza]
 
 | Versão | Data | Descrição | Autor(es) | Revisor |
 |--------|------|-----------|-----------|---------|
-| 1.0    | 14/10/2025 | Criação do documento da Especificação Suplementar | [Anna Clara](https://github.com/AnnaClarafg), [Luisa de Souza](https://github.com/luisa12ll) |  [Moisés](https://github.com/edumoisessilva)|
+| 1.0    | 14/10/2025 | Criação do documento da Especificação Suplementar | [Anna Clara](https://github.com/AnnaClarafg) e [Luisa de Souza](https://github.com/luisa12ll) |  [Moisés](https://github.com/edumoisessilva)|
