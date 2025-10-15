@@ -15,7 +15,7 @@ A priorização foi realizada por meio de uma entrevista com um usuário do sist
 
 ## Envolvidos
 
-Os responsáveis pela realização da priorização MoSCoW foram: [Anna Clara](https://github.com/AnnaClarafg), [Luisa de Souza](https://github.com/luisa12ll).
+Os responsáveis pela realização da priorização MoSCoW foram: [Anna Clara](https://github.com/AnnaClarafg), [Luisa de Souza](https://github.com/luisa12ll). <br>
 O cliente entrevistado para a realização da priorização foi: Luís Henrique.
 
 
