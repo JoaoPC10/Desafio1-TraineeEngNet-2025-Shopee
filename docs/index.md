@@ -57,6 +57,7 @@ Traduzam a complexidade do aplicativo em **modelos visuais** (fluxogramas, diagr
 ### 4. Entrega
 
 Compilem todo o trabalho em um **único documento**. O documento deve explicar as técnicas usadas e **justificar as decisões** da equipe para a arquitetura e funcionalidades propostas.
+
 | Versão | Data | Descrição | Autor(es) | Revisor |
 | ---- | ----- | ----- | ---- | ----- | 
 | 1.0 | 12/10/2025 | Criação da página| [João Igor](https://github.com/JoaoPC10) | [Gabriel](https://github.com/Dev-Gabriel-Lima) |
