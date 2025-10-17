@@ -6,15 +6,15 @@ O Rich Picture é uma técnica visual e colaborativa fundamental na engenharia d
 
 **Figura 1: Rich Picture da Shopee**
 
-![Figura 1: Rich Picture da Shopee](../imagens/aplicativosAvaliados/richPictureShopee.png)
+![Figura 1: Rich Picture da Shopee](../imagens/aplicativosAvaliados/Rich_picture_shopee.png)
 
 ### Legenda
 
 Para melhor entendimento da imagem, abaixo está uma figura de referência contendo as características e significados de cada elemnto em um Rich Picture.
 
-![Figura 2: Rich Picture do SAE](../imagens/ReferenciaRichPicture.png)
+![Figura 2: Legenda do rich piccture](../imagens/aplicativosAvaliados/legenda_rich_picture.png)
 
-<div align="center"><strong>Autoria de: <a href="https://github.com/JoaoPC10">João Igor</a></strong></div>
+<div><strong>Autoria de: <a href="https://github.com/JoaoPC10">João Igor</a></strong></div>
 
 
 ## Histórico de versão
