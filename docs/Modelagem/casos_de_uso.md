@@ -347,11 +347,8 @@ Com base nesses conceitos, a Tabela 2 apresenta os principais elementos que comp
 
 ---
 
-## Validação dos casos de uso
-- [Link No Youtube](https://youtu.be/C0O24DxxID4)
 
-## Referências
-Lucid Software Português. Tutorial de Caso de Uso UML. Youtube, 25 abr. 2019. Disponível em: [https://youtu.be/ab6eDdwS3rA?si=geKJuyxRkgBXmeJE](https://youtu.be/ab6eDdwS3rA?si=geKJuyxRkgBXmeJE). Acesso em: 10 outubro 2025.
+<a id="RP1" href="#tec1">1.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 13. UnB, 2025. Disponível em: [Requisitos_Aula 13](../arquivos/Requisitos_Aula013a.pdf). Acesso em: 14 de outubro de 2025. p. 27–30.
 
 ## Histórico de versão
 

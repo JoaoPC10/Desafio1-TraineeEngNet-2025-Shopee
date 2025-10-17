@@ -52,7 +52,7 @@ A Tabela apresenta a priorização dos requisitos, organizada em ordem decrescen
 
 
 ## Referências
-ISHII, M. et al. Scalings of thermal hydraulic phenomena in a reactor core. Nuclear Engineering and Design, Amsterdam, v. 186, n. 1-2, p. 17-49, dez. 1998. Disponível em: https://www.sciencedirect.com/science/article/pii/S0029549398002222. Acesso em: 14 out. 2025.
+WIEDERS, Karl; BEATTY, Joy. Software requirements. 3. ed. [S.l.]: Microsoft, [s.d.].Disponível em: [Software Requirements](../arquivos/PriorizacaoRequisitos.pdf)Acesso em: 14 out. 2025.
 
 ## Histórico de versão
 

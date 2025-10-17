@@ -120,7 +120,7 @@ A priorização MoSCoW foi essencial para alinhar as expectativas do cliente com
 
 ## Referência bibliográfica
 
-<a id="RP1" href="#tec1">1.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 13. UnB, 2025. Disponível em: <[https://aprender3.unb.br/pluginfile.php/3210637/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf](https://aprender3.unb.br/pluginfile.php/3210637/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf)>. Acesso em: 14 de outubro de 2025. p. 27–30.
+<a id="RP1" href="#tec1">1.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 13. UnB, 2025. Disponível em: [Requisitos_Aula 17](../arquivos/Requisitos_Aula07.pdf). Acesso em: 15 de outubro de 2025. p. 27–30.
 
 
 ## Histórico de versão
