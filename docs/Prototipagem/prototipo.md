@@ -6,7 +6,7 @@ O protótipo foi desenvolvido em alta fidelidade utilizando a ferramenta Figma, 
 ## Imagens do Protótipo
 
 ## Protótipo: Suporte a Múltiplos Idiomas e Acessível a Pessoas com Deficiência Visual
-**Autor:**  [João Igor](https://github.com/JoaoPC10), [Luisa](https://github.com/luisa12ll) e [Anna Clara](https://github.com/AnnaClarafg)<br>
+**Autores:**  [João Igor](https://github.com/JoaoPC10), [Luisa](https://github.com/luisa12ll) e [Anna Clara](https://github.com/AnnaClarafg)<br>
 **Rastreabilidade:**   [RNF02](https://joaopc10.github.io/Desafio1-TraineeEngNet-2025-Shopee/Elicitacao/requisitos_elicitados/#RNF02), [RNF07](https://joaopc10.github.io/Desafio1-TraineeEngNet-2025-Shopee/Elicitacao/requisitos_elicitados/#RNF07)<br>
 **Ferramenta:**  Figma<br>
 **Tipo:**   Alta Fidelidade <br>
