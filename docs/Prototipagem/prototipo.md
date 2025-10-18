@@ -1,6 +1,6 @@
 ## Introdução
 
-A prototipação visa validar a experiência do usuário em uma página da Shopee com duas funcionalidades chave: suporte a múltiplos idiomas e um Assistente Virtual (chatbot) integrado de autoatendimento.
+A prototipação visa validar a experiência do usuário em uma página da Shopee com duas funcionalidades chave: suporte a múltiplos idiomas e um Assistente Virtual integrado de autoatendimento.
 O protótipo foi desenvolvido em alta fidelidade utilizando a ferramenta Figma, simulando a possível aparência final da página de e-commerce. O foco principal é a validação da usabilidade, ou seja, se o usuário consegue usar as novas funcionalidades com fácil entendimento.
 
 ## Imagens do Protótipo
