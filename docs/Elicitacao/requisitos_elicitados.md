@@ -17,23 +17,23 @@ Os requisitos foram organizados em duas tabelas: a Tabela 1 apresenta os Requisi
 
 ### Requisitos Funcionais
 
-| ID   | Descrição | Técnicas | Implementado |
-|------|-----------|----------|--------------|
-| <a id="RF01"></a>RF01 | O sistema deve permitir o cadastro de usuário (vendedores e compradores) | Observação | Sim |
-| RF02 | O usuário deve poder filtrar produtos por preço, avaliação e entrega | Introspecção | Sim |
-| RF03 | O sistema deve permitir a pesquisa de produtos por nome ou categoria | Introspecção | Sim |
-| RF04 | O sistema deve permitir ao usuário cadastrar múltiplos métodos de pagamento | Observação | Sim |
-| RF05 | O sistema deve permitir que o usuário recupere sua senha de acesso através de um link enviado para seu e-mail cadastrado | Observação | Sim |
-| RF06 | O sistema deve exibir um histórico de todos os pedidos anteriores do usuário em sua área de perfil | Observação | Sim |
-| RF07 | O sistema deve permitir ao usuário avaliar produtos e vendedores | Introspecção | Sim |
-| RF08 | O sistema deve mostrar resultados relevantes em uma lista clara e objetiva | Observação | Sim |
-| RF09 | O sistema deve permitir a adição de produtos ao carrinho | Introspecção | Sim |
-| RF10 | O sistema deve permitir que o usuário adicione produtos a uma "Lista de Desejos" para consulta futura | Observação | Sim |
-| RF11 | O sistema deve permitir acompanhar o status do pedido | Introspecção | Sim |
-| RF12 | O sistema deve sugerir produtos com base em buscas anteriores | Observação | Sim |
-| RF13 | O sistema deve permitir que o usuário cadastre e gerencie múltiplos endereços de entrega em sua conta | Observação | Sim |
-| RF14 | O sistema deve mostrar avaliações e comentários de outros compradores | Observação | Sim |
-| RF15 | O sistema deve possuir termos e políticas de privacidade claras e acessíveis | Observação | Sim |
+| ID | Descrição | Técnicas | Implementado |
+|---|---|---|---|
+| <span id="RF01">RF01</span> | O sistema deve permitir o cadastro de usuário (vendedores e compradores) | Observação | Sim |
+| <span id="RF02">RF02</span> | O usuário deve poder filtrar produtos por preço, avaliação e entrega | Introspecção | Sim |
+| <span id="RF03">RF03</span> | O sistema deve permitir a pesquisa de produtos por nome ou categoria | Introspecção | Sim |
+| <span id="RF04">RF04</span> | O sistema deve permitir ao usuário cadastrar múltiplos métodos de pagamento | Observação | Sim |
+| <span id="RF05">RF05</span> | O sistema deve permitir que o usuário recupere sua senha de acesso através de um link enviado para seu e-mail cadastrado | Observação | Sim |
+| <span id="RF06">RF06</span> | O sistema deve exibir um histórico de todos os pedidos anteriores do usuário em sua área de perfil | Observação | Sim |
+| <span id="RF07">RF07</span> | O sistema deve permitir ao usuário avaliar produtos e vendedores | Introspecção | Sim |
+| <span id="RF08">RF08</span> | O sistema deve mostrar resultados relevantes em uma lista clara e objetiva | Observação | Sim |
+| <span id="RF09">RF09</span> | O sistema deve permitir a adição de produtos ao carrinho | Introspecção | Sim |
+| <span id="RF10">RF10</span> | O sistema deve permitir que o usuário adicione produtos a uma "Lista de Desejos" para consulta futura | Observação | Sim |
+| <span id="RF11">RF11</span> | O sistema deve permitir acompanhar o status do pedido | Introspecção | Sim |
+| <span id="RF12">RF12</span> | O sistema deve sugerir produtos com base em buscas anteriores | Observação | Sim |
+| <span id="RF13">RF13</span> | O sistema deve permitir que o usuário cadastre e gerencie múltiplos endereços de entrega em sua conta | Observação | Sim |
+| <span id="RF14">RF14</span> | O sistema deve mostrar avaliações e comentários de outros compradores | Observação | Sim |
+| <span id="RF15">RF15</span> | O sistema deve possuir termos e políticas de privacidade claras e acessíveis | Observação | Sim |
 
 Tabela 1 – Conjunto de requisitos funcionais elicitados.<br>
 Elaboração por [Anna Clara](https://github.com/AnnaClarafg), [Gabriel](https://github.com/Dev-Gabriel-Lima), [João Igor](https://github.com/JoaoPC10), [Luisa de Souza](https://github.com/luisa12ll) e [Moisés](https://github.com/edumoisessilva)
@@ -42,19 +42,19 @@ Elaboração por [Anna Clara](https://github.com/AnnaClarafg), [Gabriel](https:/
 
 ### Requisitos Não Funcionais
 
-| ID    | Descrição | Técnicas | Implementado |
-|-------|-----------|----------|--------------|
-| RNF01 | O usuário deve conseguir buscar produtos em menos de 5 segundos após digitar | Introspecção | Sim |
-| RNF02 | O sistema deve ser acessível a pessoas com deficiência visual conforme as normas de acessibilidade | Observação | Não |
-| RNF03 | O sistema deve suportar um grande número de usuários simultâneos | Introspecção | Sim |
-| RNF04 | O sistema deve funcionar corretamente em desktops e dispositivos móveis | Observação | Sim |
-| RNF05 | O sistema deve manter a integridade e segurança dos dados do usuário conforme a LGPD | Introspecção | Sim |
-| RNF06 | O tempo de carregamento das páginas não deve ultrapassar 5 segundos | Observação | Sim |
-| RNF07 | O sistema deve suportar múltiplos idiomas para usuários de diferentes regiões | Introspecção | Não |
-| RNF08 | O usuário deve receber confirmação imediata da compra em até 10 segundos | Observação | Sim |
-| RNF09 | O usuário deve finalizar a compra em menos de 5 minutos | Introspecção | Sim |
-| RNF10 | O sistema deve validar os dados do cartão ou pagamento em menos de 15 segundos | Introspecção | Sim |
-| RNF11 | O usuário deve conseguir ler descrições detalhadas dos produtos, com texto legível e claro | Observação | Sim |
+| ID | Descrição | Técnicas | Implementado |
+|---|---|---|---|
+| <span id="RNF01">RNF01</span> | O usuário deve conseguir buscar produtos em menos de 5 segundos após digitar | Introspecção | Sim |
+| <span id="RNF02">RNF02</span> | O sistema deve ser acessível a pessoas com deficiência visual conforme as normas de acessibilidade | Observação | Não |
+| <span id="RNF03">RNF03</span> | O sistema deve suportar um grande número de usuários simultâneos | Introspecção | Sim |
+| <span id="RNF04">RNF04</span> | O sistema deve funcionar corretamente em desktops e dispositivos móveis | Observação | Sim |
+| <span id="RNF05">RNF05</span> | O sistema deve manter a integridade e segurança dos dados do usuário conforme a LGPD | Introspecção | Sim |
+| <span id="RNF06">RNF06</span> | O tempo de carregamento das páginas não deve ultrapassar 5 segundos | Observação | Sim |
+| <span id="RNF07">RNF07</span> | O sistema deve suportar múltiplos idiomas para usuários de diferentes regiões | Introspecção | Não |
+| <span id="RNF08">RNF08</span> | O usuário deve receber confirmação imediata da compra em até 10 segundos | Observação | Sim |
+| <span id="RNF09">RNF09</span> | O usuário deve finalizar a compra em menos de 5 minutos | Introspecção | Sim |
+| <span id="RNF10">RNF10</span> | O sistema deve validar os dados do cartão ou pagamento em menos de 15 segundos | Introspecção | Sim |
+| <span id="RNF11">RNF11</span> | O usuário deve conseguir ler descrições detalhadas dos produtos, com texto legível e claro | Observação | Sim |
 
 Tabela 2 – Conjunto de requisitos não funcionais elicitados.<br>
 Elaboração por [Anna Clara](https://github.com/AnnaClarafg), [Gabriel](https://github.com/Dev-Gabriel-Lima), [João Igor](https://github.com/JoaoPC10), [Luisa de Souza](https://github.com/luisa12ll) e [Moisés](https://github.com/edumoisessilva)
