@@ -14,7 +14,7 @@ Para melhor entendimento da imagem, abaixo está uma figura de referência conte
 
 ![Figura 2: Legenda do rich piccture](../imagens/aplicativosAvaliados/legenda_rich_picture.png)
 
-<div><strong>Autoria de: <a href="https://github.com/JoaoPC10">João Igor</a>, <a href="https://github.com/AnnaClarafg">Anna Clara</a></strong></div>
+Autoria: [João Igor](https://github.com/JoaoPC10), [Anna Clara](https://github.com/AnnaClarafg) e [Luisa de Souza](https://github.com/luisa12ll)
 
 ## Referências
 SOFTWARE Development Project: Introducing Rich Pictures. [S.l.: s.n.], [s.d.]. 8 p. Material didático da disciplina CTEC2402. Disponível em: [Software Development Project](../arquivos/IntroducingRichPictures.pdf). Acesso em: 14 out. 2025.
@@ -24,4 +24,4 @@ SOFTWARE Development Project: Introducing Rich Pictures. [S.l.: s.n.], [s.d.]. 8
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ---- | ----- | ----- | ---- | ----- | 
-| 1.0 | 12/10/2025 | Preenchimento das infos iniciais e criação do rich picture | [João Igor](https://github.com/JoaoPC10), [Anna Clara](https://github.com/AnnaClarafg) | [Gabriel](https://github.com/Dev-Gabriel-Lima), [Luisa de Souza](https://github.com/luisa12ll) |Software Development Project
+| 1.0 | 12/10/2025 | Preenchimento das infos iniciais e criação do rich picture | [João Igor](https://github.com/JoaoPC10), [Anna Clara](https://github.com/AnnaClarafg) e [Luisa de Souza](https://github.com/luisa12ll)| [Gabriel](https://github.com/Dev-Gabriel-Lima) |
