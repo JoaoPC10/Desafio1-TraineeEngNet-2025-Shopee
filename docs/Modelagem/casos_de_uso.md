@@ -153,7 +153,7 @@ Figura 1: Diagrama 1
 | **Data de criação** | 08/10/2025 |
 
 <div align="center"><strong>Autoria de <a href="https://github.com/edumoisessilva">Eduardo Moises</a></strong></div>
-
+<br>
 
 | Campo                 | Descrição                                                                                                                                                                                                                                                                                 |
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -165,13 +165,13 @@ Figura 1: Diagrama 1
 | **Fluxo principal**   | - O usuário acessa a página inicial ou um produto específico. <br>- O sistema coleta dados de navegação e histórico de compras. <br>- O sistema aplica algoritmos de recomendação para identificar preferências. <br>- O sistema exibe sugestões personalizadas de produtos relacionados. |
 | **Fluxo alternativo** | - O usuário é novo e ainda não possui histórico de navegação. <br>- O sistema exibe produtos populares ou promoções gerais até coletar dados suficientes.                                                                                                                                 |
 | **Fluxo de exceção**  | - Falha na análise de dados ou indisponibilidade do módulo de recomendação. <br>- O sistema exibe mensagem padrão: “Não foi possível gerar recomendações no momento.”                                                                                                                     |
-| **Pós-condições**     | O usuário visualiza recomendações personalizadas com base em seu perfil e comportamento, melhorando a experiência de compra.                                                                                                                                                              |
-)                                                                                                                                                                              |
+| **Pós-condições**     | O usuário visualiza recomendações personalizadas com base em seu perfil e comportamento, melhorando a experiência de compra.                                                                                                                                                              |                                                                                                            |
 | **Data de criação**   | 17/10/2025
+
 <div align="center"><strong>Autoria de <a href="https://github.com/edumoisessilva">Eduardo Moises</a></strong></div>
 
 
----
+<br>
 
 
 
@@ -258,7 +258,7 @@ Figura 1: Diagrama 1
 | **Fluxo alternativo** | - Nenhum produto corresponde aos filtros aplicados.<br>- O sistema exibe a mensagem: “Nenhum produto encontrado para os critérios selecionados.”                                                                                                                                                  |
 | **Fluxo de exceção**  | - Falha na conexão com o banco de dados ou no processamento de filtros.<br>- O sistema exibe mensagem: “Não foi possível carregar os produtos. Tente novamente mais tarde.”                                                                                                                       |
 | **Pós-condições**     | O usuário visualiza uma lista de produtos filtrada conforme os critérios selecionados, facilitando a escolha e compra.                                                                                                                                                                            |
-                                                                        |
+
 | **Data de criação**   | 17/10/2025                                                                                                                                                                                                                                                                                        |
 
 
