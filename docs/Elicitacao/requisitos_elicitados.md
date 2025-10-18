@@ -19,7 +19,7 @@ Os requisitos foram organizados em duas tabelas: a Tabela 1 apresenta os Requisi
 
 | ID   | Descrição | Técnicas | Implementado |
 |------|-----------|----------|--------------|
-| RF01 | O sistema deve permitir o cadastro de usuário (vendedores e compradores) | Observação | Sim |
+| <a id="RF01"></a>RF01 | O sistema deve permitir o cadastro de usuário (vendedores e compradores) | Observação | Sim |
 | RF02 | O usuário deve poder filtrar produtos por preço, avaliação e entrega | Introspecção | Sim |
 | RF03 | O sistema deve permitir a pesquisa de produtos por nome ou categoria | Introspecção | Sim |
 | RF04 | O sistema deve permitir ao usuário cadastrar múltiplos métodos de pagamento | Observação | Sim |
