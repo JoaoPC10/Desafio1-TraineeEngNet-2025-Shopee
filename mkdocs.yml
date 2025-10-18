@@ -47,7 +47,7 @@ markdown_extensions:
       permalink: true
 
 nav:
-  - Home: home.md
+  - Home: index.md
   - Atas: 
     - Ata 07/10/2025: Atas/ata07-10-2025_1.md
     - Ata 12/10/2025: Atas/ata12-10-2025_2.md
