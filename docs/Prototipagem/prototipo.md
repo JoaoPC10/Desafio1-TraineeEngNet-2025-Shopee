@@ -19,4 +19,4 @@ O protótipo foi desenvolvido em alta fidelidade utilizando a ferramenta Figma, 
 
 | Versão | Data   | Descrição  | Autor(es) |Revisor   |
 |--------|--------|------------|-----------|----------|
-| 1.0 | 18/10/2025 | Criação do documento e do protótipo | [João Igor](https://github.com/JoaoPC10) | [Luisa](https://github.com/luisa12ll)|
+| 1.0 | 18/10/2025 | Criação do documento | [João Igor](https://github.com/JoaoPC10) | [Luisa](https://github.com/luisa12ll)|
