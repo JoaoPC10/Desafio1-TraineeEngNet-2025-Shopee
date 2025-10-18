@@ -2,5 +2,3 @@
 venv/
 .venv/
 
-# Ignorar arquivo de cópia
-casos_de_uso copy.md
