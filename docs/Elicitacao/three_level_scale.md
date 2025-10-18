@@ -11,7 +11,7 @@ A Tabela apresenta a priorização dos requisitos, organizada em ordem decrescen
 
 | Requisito | Descrição | Tipo | Prioridade |
 | :---: | :--- | :---: | :---: |
-| [RF01](https://joaopc10.github.io/Desafio1-TraineeEngNet-2025-Shopee/Elicitacao/requisitos_elicitados/)| O sistema deve permitir o cadastro de usuário (vendedores e compradores). | Funcional | Alta |
+| [RF01](https://joaopc10.github.io/Desafio1-TraineeEngNet-2025-Shopee/Elicitacao/requisitos_elicitados/#RF01)| O sistema deve permitir o cadastro de usuário (vendedores e compradores). | Funcional | Alta |
 | [RF03](https://joaopc10.github.io/Desafio1-TraineeEngNet-2025-Shopee/Elicitacao/requisitos_elicitados/)| O sistema deve permitir a pesquisa de produtos por nome ou categoria. | Funcional | Alta |
 | [RF05](https://joaopc10.github.io/Desafio1-TraineeEngNet-2025-Shopee/Elicitacao/requisitos_elicitados/) | O usuário deve receber confirmação imediata da compra em até 10 segundos. | Funcional | Alta |
 | [RF07](https://joaopc10.github.io/Desafio1-TraineeEngNet-2025-Shopee/Elicitacao/requisitos_elicitados/) | O sistema deve permitir ao usuário avaliar produtos e vendedores. | Funcional | Alta |
