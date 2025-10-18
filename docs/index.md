@@ -47,7 +47,9 @@
   }
 
   .logo {
-    width: 250px;
+    /* --- MUDANÇA AQUI --- */
+    width: 400px; /* Aumentado de 250px para 400px */
+    /* -------------------- */
     height: auto;
     animation: var(--jornada-float-animation);
   }
@@ -68,11 +70,13 @@
     color: var(--jornada-text);
   }
 
+  /* Esta regra faz os títulos (h1) dentro da classe .team ficarem Laranja */
   .team h1, .project-info h1 {
     margin-bottom: 10px;
     color: #FF6600; /* Laranja Shopee */
   }
   
+  /* Esta regra faz o texto das listas (li) dentro da classe .team ficar Branco */
   .team li, .project-info li {
     color: var(--jornada-text);
   }
@@ -133,19 +137,18 @@
     <li>⭐ Fase 2: Priorização de Requisitos</li>
     <li>🎨 Fase 3: Modelagem</li>
     <li>🖼️ Fase 4: Prototipação</li>
+    <li>📊 Fase 5: Análise e Documentação</li> 
   </ul>
 
   <h1 style="color: #FF6600; margin-top: 50px; margin-bottom: 25px;">👥 Membros da Equipe</h1>
 
   <table>
     <tr>
-    <td align="center"><a href="https://github.com/AnnaClarafg"><img src="https://avatars.githubusercontent.com/u/169397157?v=4" width="200px;" alt=""/><br/><sub><b>Ana Clara</b></sub></a><br/>
-    <td align="center"><a href="https://github.com/Dev-Gabriel-Lima"><img src="https://avatars.githubusercontent.com/u/156694363?v=4" width="200px;" alt=""/><br /><sub><b>Gabriel</b></sub></a><br />
-    <td align="center"><a href="https://github.com/JoaoPC10"><img src="https://avatars.githubusercontent.com/u/104221138?v=4" width="200px;" alt=""/><br /><sub><b>João Igor</b></sub></a><br />
-        <td align="center"><a href="https://github.com/luisa12ll"><img src="https://avatars.githubusercontent.com/u/194189725?v=4" width="200px;" alt=""/><br /><sub><b>Luisa de Souza</b></sub></a><br />
-    <td align="center"><a href="https://github.com/edumoisessilva"><img src="https://avatars.githubusercontent.com/u/185516590?v=4" width="200px;" alt=""/><br /><sub><b>Moisés</b></sub></a><br />  
+    <td align="center"><a href="https://github.com/AnnaClarafg"><img src="https://avatars.githubusercontent.com/u/169397157?v:4" width="200px;" alt=""/><br/><sub><b>Ana Clara</b></sub></a><br/>
+    <td align="center"><a href="https://github.com/Dev-Gabriel-Lima"><img src="https://avatars.githubusercontent.com/u/156694363?v:4" width="200px;" alt=""/><br /><sub><b>Gabriel</b></sub></a><br />
+    <td align="center"><a href="https://github.com/JoaoPC10"><img src="https://avatars.githubusercontent.com/u/104221138?v:4" width="200px;" alt=""/><br /><sub><b>João Igor</b></sub></a><br />
+        <td align="center"><a href="https://github.com/luisa12ll"><img src="https://avatars.githubusercontent.com/u/194189725?v:4" width="200px;" alt=""/><br /><sub><b>Luisa de Souza</b></sub></a><br />
+    <td align="center"><a href="https://github.com/edumoisessilva"><img src="https://avatars.githubusercontent.com/u/185516590?v:4" width="200px;" alt=""/><br /><sub><b>Moisés</b></sub></a><br />  
   </table>
-
-</div>
 
 </div>
