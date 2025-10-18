@@ -310,11 +310,13 @@ Figura 1: Diagrama 1
 
 ---
 
-## Validação dos casos de uso
-
 ## Referências
 Lucid Software Português. Tutorial de Caso de Uso UML. Youtube, 25 abr. 2019. Disponível em: [https://youtu.be/ab6eDdwS3rA?si=geKJuyxRkgBXmeJE](https://youtu.be/ab6eDdwS3rA?si=geKJuyxRkgBXmeJE). Acesso em: 10 outubro 2025.
 
 
+## Histórico de versão
 
+| Versão | Data | Descrição | Autor(es) | Revisor |
+|--------|------|-----------|-----------|---------|
+| 1.0    | 17/10/2025 | Conclusão do arquivo casos_de_uso.md | [Moisés](https://github.com/edumoisessilva) | [Gabriel](https://github.com/Dev-Gabriel-Lima) |
 
