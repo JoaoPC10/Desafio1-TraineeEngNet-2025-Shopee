@@ -19,6 +19,13 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+  
+  # --- INSERI O CÓDIGO AQUI ---
+  # Desativa o "Home" (breadcrumb) que estava no topo da página
+  navigation:
+    breadcrumbs: false
+  # ----------------------------
+
   palette:
     - scheme: default
       primary: orange
@@ -39,9 +46,8 @@ markdown_extensions:
   - toc:
       permalink: true
 
-
 nav:
-  - Home: index.md
+  - Home: home.md
   - Atas: 
     - Ata 07/10/2025: Atas/ata07-10-2025_1.md
     - Ata 12/10/2025: Atas/ata12-10-2025_2.md
