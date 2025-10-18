@@ -12,8 +12,9 @@ O modelo de caso de uso foi escolhido para que seja de facil entendimento o flux
 
 ## Diagramas de Caso de Uso
 
-<div align="center"><strong>Figura 1</strong></div>
-![Figura 1: Diagrama 1](../imagens/casosDeUso/DiagramaCasoUso.png)
+![Figura 1: Diagrama 1](../imagens/casosDeUso/DiagramaCasoUso.png) <br>
+Figura 1: Diagrama 1
+
 
 <div align="center"><strong>Autoria de <a href="https://github.com/edumoisessilva">Eduardo Moises</a></strong></div>
 
