@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Finalizado-green?style=flat-square)
 ![Tipo](https://img.shields.io/badge/Tipo-Engenharia_de_Requisitos-blue?style=flat-square)
 
 **Análise de requisitos do Shopee através de engenharia reversa**
